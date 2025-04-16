@@ -20,3 +20,8 @@ To github.com:EstelioAmmen/steam-backend.git
 To github.com:EstelioAmmen/steam-backend.git
    67f055e..d16a98c  main -> main
 [INFO] Изменение обнаружено: MODIFY config.ini
+[main e9722fd] Auto update on file change: config.ini
+ 1 file changed, 5 insertions(+)
+To github.com:EstelioAmmen/steam-backend.git
+   d16a98c..e9722fd  main -> main
+[INFO] Изменение обнаружено: MODIFY item_steam_apis.py

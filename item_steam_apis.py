@@ -3,6 +3,12 @@ import requests
 from datetime import datetime
 import logging
 import os
+import configparser
+
+# === КОНФИГ ===
+config = configparser.ConfigParser()
+config.read(os.path.join(os.path.dirname(__file__), 'config.ini'))
+
 
 # === ЛОГГЕР ===
 LOG_DIR = "/root/Site/logs"
@@ -14,7 +20,7 @@ logging.basicConfig(
 )
 
 # === НАСТРОЙКИ ===
-API_KEY = "V3rujQwgvIUj0FVpOVByPZND5yE"
+API_KEY = config['steam']['api_key']
 BASE_URL = "https://api.steamapis.com/market/items/{appid}?api_key=" + API_KEY
 
 GAMES = {
@@ -25,11 +31,11 @@ GAMES = {
 }
 
 DB_CONFIG = {
-    "dbname": "steaminventory_db",
-    "user": "steamuser",
-    "password": "MySecurePostgres123!",
-    "host": "localhost",
-    "port": 5432
+    "dbname": config['database']['dbname'],
+    "user": config['database']['user'],
+    "password": config['database']['password'],
+    "host": config['database']['host'],
+    "port": config.getint('database', 'port')
 }
 
 def format_unix(timestamp):
