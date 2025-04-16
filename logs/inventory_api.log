@@ -1,0 +1,21 @@
+2025-04-15 04:31:54,234 - INFO - 📥 Запрос инвентаря: steamid=76561198083135565, appid=730
+2025-04-15 04:31:58,795 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561198083135565/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
+2025-04-15 04:31:58,957 - CRITICAL - 🔥 Ошибка сохранения в БД: invalid input for query argument $13 in element #0 of executemany() sequence: '2025-04-15 04:31:58' (expected a datetime.date or datetime.datetime instance, got 'str')
+2025-04-15 04:35:01,619 - INFO - 📥 Запрос инвентаря: steamid=76561198083135565, appid=730
+2025-04-15 04:35:03,670 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561198083135565/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
+2025-04-15 04:35:03,844 - INFO - ✅ Сохранено 3 предметов в user_inventory для 76561198083135565/730
+2025-04-15 04:37:04,937 - INFO - 📥 Запрос инвентаря: steamid=76561198083135565, appid=570
+2025-04-15 04:37:07,255 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561198083135565/570/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
+2025-04-15 04:37:07,568 - INFO - ✅ Сохранено 2000 предметов в user_inventory для 76561198083135565/570
+2025-04-15 04:37:25,486 - INFO - 📥 Запрос инвентаря: steamid=76561198083135565, appid=570
+2025-04-15 04:37:26,083 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561198083135565/570/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
+2025-04-15 04:37:26,712 - INFO - ✅ Сохранено 2000 предметов в user_inventory для 76561198083135565/570
+2025-04-15 04:38:10,621 - INFO - 📥 Запрос инвентаря: steamid=76561198083135565, appid=730
+2025-04-15 04:38:14,282 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561198083135565/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
+2025-04-15 04:38:14,400 - INFO - ✅ Сохранено 3 предметов в user_inventory для 76561198083135565/730
+2025-04-15 04:54:37,245 - INFO - 📥 Запрос инвентаря: steamid=76561198083135565, appid=570
+2025-04-15 04:54:39,121 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561198083135565/570/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
+2025-04-15 04:54:39,447 - INFO - ✅ Сохранено 2000 предметов в user_inventory для 76561198083135565/570
+2025-04-15 04:56:14,810 - INFO - 📥 Запрос инвентаря: steamid=76561198083135565, appid=730
+2025-04-15 04:56:22,040 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561198083135565/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
+2025-04-15 04:56:22,173 - INFO - ✅ Сохранено 3 предметов в user_inventory для 76561198083135565/730

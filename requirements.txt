@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-openid
+requests
+pymysql
+jinja2

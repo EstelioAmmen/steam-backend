@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Steam Авторизация</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 40px; }
+        button { padding: 10px 20px; font-size: 16px; }
+        img { border-radius: 50%; margin-top: 10px; }
+    </style>
+</head>
+<body>
+    {% if logged_in %}
+        <h1>Привет, {{ name }}!</h1>
+        <img src="{{ avatar }}" width="100" height="100" alt="avatar">
+        <br><br>
+        <a href="/logout"><button>Выйти</button></a>
+    {% else %}
+        <h1>Добро пожаловать!</h1>
+        <a href="/login"><button>Войти через Steam</button></a>
+    {% endif %}
+</body>
+</html>
