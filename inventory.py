@@ -1,28 +1,32 @@
 import os
 import logging
-from datetime import datetime
+import configparser
+from datetime import datetime, timedelta               # ← добавили timedelta
+from urllib.parse import urlsplit
+
 from fastapi import APIRouter, Request, HTTPException
 from fastapi.responses import JSONResponse
 import asyncpg
 import httpx
-import configparser
 
 router = APIRouter()
 
 # === КОНФИГ ===
 config = configparser.ConfigParser()
-config.read(os.path.join(os.path.dirname(__file__), 'config.ini'))
+config.read(os.path.join(os.path.dirname(__file__), "config.ini"))
 
 # === НАСТРОЙКИ ===
-API_KEY = config['steam']['api_key']
-BASE_URL = "https://api.steamapis.com/steam/inventory/{steamid}/{appid}/2?api_key=" + API_KEY
+API_KEY = config["steam"]["api_key"]                   # ключ стороннего SteamApis
+BASE_URL = (
+    "https://api.steamapis.com/steam/inventory/{steamid}/{appid}/2?api_key=" + API_KEY
+)
 
 DB_CONFIG = {
-    "user": config['database']['user'],
-    "password": config['database']['password'],
-    "database": config['database']['dbname'],
-    "host": config['database']['host'],
-    "port": config.getint('database', 'port'),
+    "user":     config["database"]["user"],
+    "password": config["database"]["password"],
+    "database": config["database"]["dbname"],
+    "host":     config["database"]["host"],
+    "port":     config.getint("database", "port"),
 }
 
 LOG_DIR = "./logs"
@@ -30,12 +34,13 @@ os.makedirs(LOG_DIR, exist_ok=True)
 logging.basicConfig(
     filename=os.path.join(LOG_DIR, "inventory_api.log"),
     level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s"
+    format="%(asctime)s - %(levelname)s - %(message)s",
 )
 
+# константа для сдвига UTC→МСК
+MSK_OFFSET = timedelta(hours=3)
 
 # === Вспомогательные функции ===
-
 def parse_tags(tags: list) -> tuple[str, str]:
     cats, vals = [], []
     for tag in tags:
@@ -44,9 +49,11 @@ def parse_tags(tags: list) -> tuple[str, str]:
             vals.append(tag["localized_tag_name"])
     return ";".join(cats), ";".join(vals)
 
+
 async def load_and_store_inventory(steamid: str, appid: int) -> bool:
     url = BASE_URL.format(steamid=steamid, appid=appid)
     logging.info(f"📥 Запрос инвентаря: steamid={steamid}, appid={appid}")
+
     try:
         async with httpx.AsyncClient(timeout=30) as client:
             response = await client.get(url)
@@ -57,10 +64,13 @@ async def load_and_store_inventory(steamid: str, appid: int) -> bool:
         return False
 
     assets = data.get("assets", [])
-    descriptions = { (d["classid"], d["instanceid"]): d for d in data.get("descriptions", []) }
+    descriptions = {
+        (d["classid"], d["instanceid"]): d for d in data.get("descriptions", [])
+    }
 
     rows = []
-    now = datetime.utcnow()
+    # московское время: UTC + 3 ч
+    now = datetime.utcnow() + MSK_OFFSET
 
     for asset in assets:
         key = (asset["classid"], asset["instanceid"])
@@ -70,21 +80,23 @@ async def load_and_store_inventory(steamid: str, appid: int) -> bool:
 
         cat_str, val_str = parse_tags(desc.get("tags", []))
 
-        rows.append((
-            steamid,
-            asset["appid"],
-            asset["assetid"],
-            asset["classid"],
-            asset["instanceid"],
-            desc.get("market_hash_name"),
-            desc.get("tradable"),
-            desc.get("marketable"),
-            desc.get("type"),
-            cat_str,
-            val_str,
-            desc.get("icon_url"),
-            now
-        ))
+        rows.append(
+            (
+                steamid,
+                asset["appid"],
+                asset["assetid"],
+                asset["classid"],
+                asset["instanceid"],
+                desc.get("market_hash_name"),
+                desc.get("tradable"),
+                desc.get("marketable"),
+                desc.get("type"),
+                cat_str,
+                val_str,
+                desc.get("icon_url"),
+                now,
+            )
+        )
 
     if not rows:
         logging.warning("⚠️ Нет данных для вставки")
@@ -92,7 +104,8 @@ async def load_and_store_inventory(steamid: str, appid: int) -> bool:
 
     try:
         conn = await asyncpg.connect(**DB_CONFIG)
-        await conn.execute("""
+        await conn.execute(
+            """
             CREATE TABLE IF NOT EXISTS user_inventory (
                 steamid TEXT,
                 appid INTEGER,
@@ -108,9 +121,15 @@ async def load_and_store_inventory(steamid: str, appid: int) -> bool:
                 icon_url TEXT,
                 updated_at TIMESTAMP
             );
-        """)
-        await conn.execute("DELETE FROM user_inventory WHERE steamid = $1 AND appid = $2", steamid, appid)
-        await conn.executemany("""
+        """
+        )
+        await conn.execute(
+            "DELETE FROM user_inventory WHERE steamid = $1 AND appid = $2",
+            steamid,
+            appid,
+        )
+        await conn.executemany(
+            """
             INSERT INTO user_inventory (
                 steamid, appid, assetid, classid, instanceid,
                 market_hash_name, tradable, marketable, type,
@@ -120,16 +139,20 @@ async def load_and_store_inventory(steamid: str, appid: int) -> bool:
                 $6, $7, $8, $9, $10,
                 $11, $12, $13
             )
-        """, rows)
+        """,
+            rows,
+        )
         await conn.close()
-        logging.info(f"✅ Сохранено {len(rows)} предметов в user_inventory для {steamid}/{appid}")
+        logging.info(
+            f"✅ Сохранено {len(rows)} предметов в user_inventory для {steamid}/{appid}"
+        )
         return True
     except Exception as e:
         logging.critical(f"🔥 Ошибка сохранения в БД: {e}")
         return False
 
-# === Эндпоинт ===
 
+# === Эндпоинт ===
 @router.get("/inventory/{steamid}/{appid}")
 async def inventory_endpoint(steamid: str, appid: int, request: Request):
     if "steamid" not in request.session:
@@ -139,4 +162,6 @@ async def inventory_endpoint(steamid: str, appid: int, request: Request):
     if success:
         return JSONResponse(content={"message": "Inventory saved to database"})
     else:
-        return JSONResponse(status_code=500, content={"error": "Failed to process inventory"})
+        return JSONResponse(
+            status_code=500, content={"error": "Failed to process inventory"}
+        )

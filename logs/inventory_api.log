@@ -105,3 +105,17 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2025-04-18 06:00:05,916 - ERROR - ResolveVanityURL bad response 403: <html><head><title>Forbidden</title></head><body><h1>Forbidden</h1>Access is denied. Retrying will not help. Please veri
 2025-04-18 06:06:23,324 - INFO - HTTP Request: GET https://api.steampowered.com/ISteamUser/ResolveVanityURL/v1/?key=V3rujQwgvIUj0FVpOVByPZND5yE&vanityurl=MannCoKey "HTTP/1.1 403 Forbidden"
 2025-04-18 06:06:23,327 - ERROR - ResolveVanityURL HTTP 403: <html><head><title>Forbidden</title></head><body><h1>Forbidden</h1>Access is denied. Retrying will not help. Please veri
+2025-04-18 06:18:18,458 - INFO - HTTP Request: GET https://api.steampowered.com/ISteamUser/ResolveVanityURL/v1/?key=9E392EAAD16B0148E422A1E00367999B&vanityurl=MannCoKey "HTTP/1.1 200 OK"
+2025-04-18 06:18:18,464 - INFO - Resolved 'https://steamcommunity.com/id/MannCoKey' → 76561199168992250 (appid=730)
+2025-04-18 06:18:18,466 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561199168992250/730
+2025-04-18 06:18:18,572 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561199168992250/730 "HTTP/1.1 401 Unauthorized"
+2025-04-18 06:18:18,597 - INFO - 📥 Запрос инвентаря: steamid=76561199168992250, appid=730
+2025-04-18 06:18:20,373 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561199168992250/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
+2025-04-18 06:18:20,524 - INFO - ✅ Сохранено 7 предметов в user_inventory для 76561199168992250/730
+2025-04-18 06:19:22,388 - INFO - HTTP Request: GET https://api.steampowered.com/ISteamUser/ResolveVanityURL/v1/?key=9E392EAAD16B0148E422A1E00367999B&vanityurl=MannCoKey "HTTP/1.1 200 OK"
+2025-04-18 06:19:22,391 - INFO - Resolved 'https://steamcommunity.com/id/MannCoKey/inventory' → 76561199168992250 (appid=730)
+2025-04-18 06:19:22,394 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561199168992250/730
+2025-04-18 06:19:22,515 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561199168992250/730 "HTTP/1.1 401 Unauthorized"
+2025-04-18 06:19:22,524 - INFO - 📥 Запрос инвентаря: steamid=76561199168992250, appid=730
+2025-04-18 06:19:24,261 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561199168992250/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
+2025-04-18 06:19:24,420 - INFO - ✅ Сохранено 7 предметов в user_inventory для 76561199168992250/730
