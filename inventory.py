@@ -1,24 +1,28 @@
 import os
 import logging
 from datetime import datetime
-
 from fastapi import APIRouter, Request, HTTPException
 from fastapi.responses import JSONResponse
 import asyncpg
 import httpx
+import configparser
 
 router = APIRouter()
 
+# === КОНФИГ ===
+config = configparser.ConfigParser()
+config.read(os.path.join(os.path.dirname(__file__), 'config.ini'))
+
 # === НАСТРОЙКИ ===
-API_KEY = "V3rujQwgvIUj0FVpOVByPZND5yE"
+API_KEY = config['steam']['api_key']
 BASE_URL = "https://api.steamapis.com/steam/inventory/{steamid}/{appid}/2?api_key=" + API_KEY
 
 DB_CONFIG = {
-    "user": "steamuser",
-    "password": "MySecurePostgres123!",
-    "database": "steaminventory_db",
-    "host": "localhost",
-    "port": 5432,
+    "user": config['database']['user'],
+    "password": config['database']['password'],
+    "database": config['database']['dbname'],
+    "host": config['database']['host'],
+    "port": config.getint('database', 'port'),
 }
 
 LOG_DIR = "./logs"
@@ -28,6 +32,7 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
+
 
 # === Вспомогательные функции ===
 
