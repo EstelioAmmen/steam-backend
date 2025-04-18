@@ -47,8 +47,9 @@ async def resolve_and_trigger_inventory_load(
 ):
     """
     Принимает любое «text» от пользователя, извлекает SteamID64,
-    а затем фоном вызывает /inventory/{steamid}/{appid}.
-    Клиенту сразу возвращается {"status": "ok"}.
+    запускает фоновый вызов /inventory/{steamid}/{appid},
+    а клиенту **сразу** возвращает {"steamid64": "<id>"} —
+    именно это ждёт фронт для формирования следующего запроса.
     """
     if appid not in SUPPORTED_APPS:
         logging.warning(f"Unsupported appid={appid}")
@@ -64,7 +65,7 @@ async def resolve_and_trigger_inventory_load(
 
     # Фоновая задача, чтобы не ждать ответ /inventory
     background_tasks.add_task(_trigger_inventory_load, steamid, appid)
-    return {"status": "ok"}
+    return {"steamid64": steamid}
 
 # ────────────────────────────
 #  Вспомогательные функции

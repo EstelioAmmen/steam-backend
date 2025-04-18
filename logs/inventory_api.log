@@ -19,3 +19,59 @@
 2025-04-15 04:56:14,810 - INFO - 📥 Запрос инвентаря: steamid=76561198083135565, appid=730
 2025-04-15 04:56:22,040 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561198083135565/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
 2025-04-15 04:56:22,173 - INFO - ✅ Сохранено 3 предметов в user_inventory для 76561198083135565/730
+2025-04-18 03:35:03,422 - INFO - Resolved 'https://steamcommunity.com/profiles/76561198083135565' → steamid=76561198083135565 (appid=570)
+2025-04-18 03:35:03,425 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561198083135565/570
+2025-04-18 03:35:03,610 - INFO - 📥 Запрос инвентаря: steamid=undefined, appid=570
+2025-04-18 03:35:03,703 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561198083135565/570 "HTTP/1.1 401 Unauthorized"
+2025-04-18 03:35:04,176 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/undefined/570/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 500 Internal Server Error"
+2025-04-18 03:35:04,178 - ERROR - ❌ Ошибка загрузки с API: Server error '500 Internal Server Error' for url 'https://api.steamapis.com/steam/inventory/undefined/570/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
+2025-04-18 03:39:39,513 - INFO - Resolved 'https://steamcommunity.com/profiles/76561198083135565' → steamid=76561198083135565 (appid=730)
+2025-04-18 03:39:39,516 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561198083135565/730
+2025-04-18 03:39:39,616 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561198083135565/730 "HTTP/1.1 401 Unauthorized"
+2025-04-18 03:39:39,657 - INFO - 📥 Запрос инвентаря: steamid=undefined, appid=730
+2025-04-18 03:39:40,558 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/undefined/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 500 Internal Server Error"
+2025-04-18 03:39:40,560 - ERROR - ❌ Ошибка загрузки с API: Server error '500 Internal Server Error' for url 'https://api.steamapis.com/steam/inventory/undefined/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
+2025-04-18 03:39:56,880 - INFO - Resolved 'https://steamcommunity.com/profiles/76561198083135565' → steamid=76561198083135565 (appid=570)
+2025-04-18 03:39:56,882 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561198083135565/570
+2025-04-18 03:39:56,987 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561198083135565/570 "HTTP/1.1 401 Unauthorized"
+2025-04-18 03:39:57,024 - INFO - 📥 Запрос инвентаря: steamid=undefined, appid=570
+2025-04-18 03:39:57,323 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/undefined/570/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 500 Internal Server Error"
+2025-04-18 03:39:57,325 - ERROR - ❌ Ошибка загрузки с API: Server error '500 Internal Server Error' for url 'https://api.steamapis.com/steam/inventory/undefined/570/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
+2025-04-18 03:40:38,992 - INFO - Resolved 'https://steamcommunity.com/profiles/76561199168992250' → steamid=76561199168992250 (appid=730)
+2025-04-18 03:40:38,996 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561199168992250/730
+2025-04-18 03:40:39,110 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561199168992250/730 "HTTP/1.1 401 Unauthorized"
+2025-04-18 03:40:39,126 - INFO - 📥 Запрос инвентаря: steamid=undefined, appid=730
+2025-04-18 03:40:39,591 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/undefined/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 500 Internal Server Error"
+2025-04-18 03:40:39,593 - ERROR - ❌ Ошибка загрузки с API: Server error '500 Internal Server Error' for url 'https://api.steamapis.com/steam/inventory/undefined/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
+2025-04-18 03:46:17,337 - INFO - Resolved 'https://steamcommunity.com/profiles/76561198083135565' → steamid=76561198083135565 (appid=730)
+2025-04-18 03:46:17,340 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561198083135565/730
+2025-04-18 03:46:17,422 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561198083135565/730 "HTTP/1.1 401 Unauthorized"
+2025-04-18 03:46:17,478 - INFO - 📥 Запрос инвентаря: steamid=undefined, appid=730
+2025-04-18 03:46:18,201 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/undefined/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 500 Internal Server Error"
+2025-04-18 03:46:18,203 - ERROR - ❌ Ошибка загрузки с API: Server error '500 Internal Server Error' for url 'https://api.steamapis.com/steam/inventory/undefined/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
+2025-04-18 04:46:02,981 - INFO - Resolved 'https://steamcommunity.com/profiles/76561199168992250' → steamid=76561199168992250 (appid=730)
+2025-04-18 04:46:02,984 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561199168992250/730
+2025-04-18 04:46:03,083 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561199168992250/730 "HTTP/1.1 401 Unauthorized"
+2025-04-18 04:46:03,115 - INFO - 📥 Запрос инвентаря: steamid=undefined, appid=730
+2025-04-18 04:46:03,404 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/undefined/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 500 Internal Server Error"
+2025-04-18 04:46:03,406 - ERROR - ❌ Ошибка загрузки с API: Server error '500 Internal Server Error' for url 'https://api.steamapis.com/steam/inventory/undefined/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
+2025-04-18 05:17:30,698 - INFO - Resolved 'https://steamcommunity.com/profiles/76561198083135565' → steamid=76561198083135565 (appid=730)
+2025-04-18 05:17:30,702 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561198083135565/730
+2025-04-18 05:17:30,789 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561198083135565/730 "HTTP/1.1 401 Unauthorized"
+2025-04-18 05:17:30,922 - INFO - 📥 Запрос инвентаря: steamid=undefined, appid=730
+2025-04-18 05:17:31,235 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/undefined/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 500 Internal Server Error"
+2025-04-18 05:17:31,237 - ERROR - ❌ Ошибка загрузки с API: Server error '500 Internal Server Error' for url 'https://api.steamapis.com/steam/inventory/undefined/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
+2025-04-18 05:23:48,755 - INFO - Resolved 'https://steamcommunity.com/profiles/76561198083135565' → steamid=76561198083135565 (appid=730)
+2025-04-18 05:23:48,758 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561198083135565/730
+2025-04-18 05:23:48,894 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561198083135565/730 "HTTP/1.1 401 Unauthorized"
+2025-04-18 05:23:48,902 - INFO - 📥 Запрос инвентаря: steamid=undefined, appid=730
+2025-04-18 05:23:49,193 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/undefined/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 500 Internal Server Error"
+2025-04-18 05:23:49,195 - ERROR - ❌ Ошибка загрузки с API: Server error '500 Internal Server Error' for url 'https://api.steamapis.com/steam/inventory/undefined/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
