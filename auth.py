@@ -4,16 +4,20 @@ import psycopg2
 import datetime
 import requests
 from urllib.parse import urlencode
+import os
+import configparser
 
 router = APIRouter()
 
-# Подключение к PostgreSQL
-DB_HOST = "localhost"
-DB_USER = "steamuser"
-DB_PASSWORD = "MySecurePostgres123!"
-DB_NAME = "steaminventory_db"
+# === КОНФИГ ===
+config = configparser.ConfigParser()
+config.read(os.path.join(os.path.dirname(__file__), 'config.ini'))
 
-STEAM_API_KEY = "9E392EAAD16B0148E422A1E00367999B"
+DB_HOST = config['database']['host']
+DB_USER = config['database']['user']
+DB_PASSWORD = config['database']['password']
+DB_NAME = config['database']['dbname']
+STEAM_API_KEY = config['steam']['steam_api_key']
 
 def get_db():
     return psycopg2.connect(
@@ -22,6 +26,7 @@ def get_db():
         password=DB_PASSWORD,
         dbname=DB_NAME
     )
+
 
 def is_safe_url(url: str) -> bool:
     return url.startswith("/")
