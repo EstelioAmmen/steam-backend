@@ -4,7 +4,7 @@ import re
 import configparser
 
 from fastapi import APIRouter, Query, HTTPException, BackgroundTasks
-from typing import Optional
+from fastapi import BackgroundTasks
 import httpx
 
 
@@ -50,7 +50,7 @@ from typing import Optional
 async def resolve_and_trigger_inventory_load(
     appid: str,
     text: str = Query(...),
-    background_tasks: Optional[BackgroundTasks] = None
+    background_tasks: BackgroundTasks  # 👈 вот так — без Optional, без значения по умолчанию
 ):
 
     """
