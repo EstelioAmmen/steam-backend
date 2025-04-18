@@ -41,14 +41,21 @@ MSK = timedelta(hours=3)
 async def _get_user_inventory(conn, steamid):
     return await conn.fetch(
         """
-        SELECT appid, market_hash_name, tradable, marketable,
-               icon_url, MAX(updated_at) AS updated_at, COUNT(*) AS count
+        SELECT
+            appid,
+            market_hash_name,
+            tradable,
+            marketable,
+            MIN(icon_url)   AS icon_url,     -- берём первый по алфавиту
+            MAX(updated_at) AS updated_at,
+            COUNT(*)        AS count
         FROM user_inventory
         WHERE steamid = $1
-        GROUP BY appid, market_hash_name, tradable, marketable, icon_url
+        GROUP BY appid, market_hash_name, tradable, marketable
         """,
         steamid,
     )
+
 
 
 async def _get_price_map(conn):
