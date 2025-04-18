@@ -4,9 +4,7 @@ import re
 import configparser
 
 from fastapi import APIRouter, Query, HTTPException, BackgroundTasks
-from fastapi import BackgroundTasks
 import httpx
-
 
 # ────────────────────────────
 #  Конфигурация и логирование
@@ -29,7 +27,6 @@ logging.basicConfig(
 INVENTORY_API = "http://localhost:8000/inventory"          # внутренний вызов
 SUPPORTED_APPS = {"730", "570", "440", "252490"}           # CS2, Dota 2, TF2, Rust
 
-
 # ────────────────────────────
 #  Регулярки
 # ────────────────────────────
@@ -37,21 +34,17 @@ VANITY_RE   = re.compile(r"(?:https?://)?steamcommunity\.com/id/([^/]+)")
 STEAMID_RE  = re.compile(r"(?:https?://)?steamcommunity\.com/profiles/(\d+)")
 JUST_ID_RE  = re.compile(r"^\d{17}$")
 
-
 # ────────────────────────────
 #  Роутер
 # ────────────────────────────
 router = APIRouter()
 
-
 @router.get("/{appid}/steamid")
 async def resolve_and_trigger_inventory_load(
+    background_tasks: BackgroundTasks,
     appid: str,
-    text: str = Query(...),
-    background_tasks: BackgroundTasks
+    text: str = Query(...)
 ):
-
-
     """
     Принимает любое «text» от пользователя, извлекает SteamID64,
     а затем фоном вызывает /inventory/{steamid}/{appid}.
@@ -73,7 +66,6 @@ async def resolve_and_trigger_inventory_load(
     background_tasks.add_task(_trigger_inventory_load, steamid, appid)
     return {"status": "ok"}
 
-
 # ────────────────────────────
 #  Вспомогательные функции
 # ────────────────────────────
@@ -91,7 +83,6 @@ async def _extract_steamid(text: str) -> str:
     # просто «MannCoKey» без URL
     return await _resolve_vanity(text)
 
-
 async def _resolve_vanity(username: str) -> str:
     url = "https://api.steampowered.com/ISteamUser/ResolveVanityURL/v1/"
     params = {"key": STEAM_API_KEY, "vanityurl": username}
@@ -104,7 +95,6 @@ async def _resolve_vanity(username: str) -> str:
         return data["response"]["steamid"]
 
     raise HTTPException(status_code=404, detail="Profile not found")
-
 
 async def _trigger_inventory_load(steamid: str, appid: str) -> None:
     url = f"{INVENTORY_API}/{steamid}/{appid}"
