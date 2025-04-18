@@ -2,8 +2,7 @@
 import os
 import json
 import logging
-from datetime import datetime, timedelta
-from collections import defaultdict
+from datetime import timedelta
 
 import asyncpg
 from fastapi import APIRouter, Request, HTTPException
@@ -13,12 +12,11 @@ import configparser
 router = APIRouter()
 
 # ────────────────────────────
-#  Конфигурация
+#  Конфиг
 # ────────────────────────────
 config = configparser.ConfigParser()
-
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))        # …/Site/routers
-ROOT_DIR = os.path.dirname(BASE_DIR)                         # …/Site
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+ROOT_DIR = os.path.dirname(BASE_DIR)
 config.read(os.path.join(ROOT_DIR, "config.ini"))
 
 DB_CONFIG = {
@@ -32,9 +30,6 @@ DB_CONFIG = {
 JSON_DIR = os.path.join(ROOT_DIR, "inventoryJson")
 os.makedirs(JSON_DIR, exist_ok=True)
 
-# ────────────────────────────
-#  Логирование
-# ────────────────────────────
 LOG_DIR = os.path.join(ROOT_DIR, "logs")
 os.makedirs(LOG_DIR, exist_ok=True)
 logging.basicConfig(
@@ -43,10 +38,10 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s",
 )
 
-MSK = timedelta(hours=3)     # offset UTC→MSK
+MSK = timedelta(hours=3)        # UTC→MSK
 
 # ────────────────────────────
-#  SQL‑вспомогательные функции
+#  SQL‑helpers
 # ────────────────────────────
 async def _get_user_inventory(conn, steamid: str):
     query = """
@@ -66,7 +61,11 @@ async def _get_user_inventory(conn, steamid: str):
 
 
 async def _get_price_map(conn):
-    rows = await conn.fetch("SELECT appid, market_hash_name, prise_24h, prise_7d, avg FROM steamapis_items")
+    rows = await conn.fetch("""
+        SELECT appid, market_hash_name, 
+               prise_24h, prise_7d, avg
+        FROM steamapis_items
+    """)
     price_map = {}
     for r in rows:
         price = r["prise_24h"] or r["prise_7d"] or r["avg"] or 0
@@ -75,6 +74,10 @@ async def _get_price_map(conn):
 
 
 async def _get_currency_factors(conn):
+    """
+    Возвращает множители стоимости от USD к каждой валюте.
+    dict: {"USD":1, "RUB": rub_per_usd, ...}
+    """
     rows = await conn.fetch("SELECT valute, curse FROM curse")
     rub_per = {r["valute"]: float(r["curse"]) for r in rows}
 
@@ -82,16 +85,16 @@ async def _get_currency_factors(conn):
     if not rub_per_usd:
         raise RuntimeError("В таблице curse нет строки USD")
 
-    factors = {"USD": 1.0}
+    factors = {"USD": 1.0, "RUB": rub_per_usd}
     for cur, rub_value in rub_per.items():
-        if cur == "USD":
+        if cur in ("USD", "RUB"):
             continue
-        factors[cur] = rub_per_usd / rub_value
+        factors[cur] = rub_per_usd / rub_value  # сколько валюты за 1 USD
     return factors
 
 
 def _compose_item_json(rec, price_usd, factors):
-    item = {
+    data = {
         "appid":            rec["appid"],
         "market_hash_name": rec["market_hash_name"],
         "tradable":         rec["tradable"],
@@ -101,32 +104,32 @@ def _compose_item_json(rec, price_usd, factors):
         "updated_at":       (rec["updated_at"] + MSK).strftime("%Y-%m-%d %H:%M:%S"),
         "prices": {}
     }
-    for cur, k in factors.items():
-        item["prices"][cur] = round(price_usd * k, 3)
-    return item
+    for cur, coef in factors.items():
+        data["prices"][cur] = round(price_usd * coef, 3)
+    return data
 
 # ────────────────────────────
-#  Энд‑поинт
+#  API‑эндпоинт
 # ────────────────────────────
 @router.get("/getjsoninv/{steamid}")
 async def generate_json_inventory(steamid: str, request: Request):
-    # доступ только владельцу сессии
-    if request.session.get("steamid") != steamid:
+    # нужен факт авторизации (любого пользователя)
+    if "steamid" not in request.session:
         raise HTTPException(401, "Unauthorized")
 
-    logging.info(f"🚀 Генерация JSON‑инвентаря для {steamid}")
+    logging.info(f"🚀 Генерация JSON для {steamid}")
 
     try:
         conn = await asyncpg.connect(**DB_CONFIG)
 
-        user_items = await _get_user_inventory(conn, steamid)
-        price_map  = await _get_price_map(conn)
-        factors    = await _get_currency_factors(conn)
+        items   = await _get_user_inventory(conn, steamid)
+        prices  = await _get_price_map(conn)
+        factors = await _get_currency_factors(conn)
 
-        out = []
-        for rec in user_items:
-            price_usd = price_map.get((rec["appid"], rec["market_hash_name"]), 0.0)
-            out.append(_compose_item_json(rec, price_usd, factors))
+        out = [
+            _compose_item_json(rec, prices.get((rec["appid"], rec["market_hash_name"]), 0.0), factors)
+            for rec in items
+        ]
 
         file_path = os.path.join(JSON_DIR, f"{steamid}.json")
         with open(file_path, "w", encoding="utf-8") as f:
@@ -137,5 +140,5 @@ async def generate_json_inventory(steamid: str, request: Request):
         return JSONResponse(content=out)
 
     except Exception as exc:
-        logging.critical(f"🔥 Ошибка формирования JSON: {exc}")
+        logging.critical(f"🔥 Ошибка JSON‑инвентаря: {exc}")
         raise HTTPException(500, "Internal error")
