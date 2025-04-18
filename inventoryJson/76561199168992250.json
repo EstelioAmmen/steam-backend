@@ -1,0 +1,98 @@
+[
+  {
+    "appid": 440,
+    "market_hash_name": "Professor Speks",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEbfggXWAjxtyp8m9jjBuGzBOESnN97s5ZWjTMzwgd5YODsaDQwd1DGWaZaBKRu8lvoUXI2vcM1V4KypL9VfhKv6tVBDWJqSA",
+    "updated_at": "2025-04-18 12:31:52",
+    "prices": {
+      "USD": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Five-SeveN | Angry Mob (Field-Tested)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goW0hPLiNrXul2VW-txOh-zF_Jn4xgeyrUM-ZTj1LNSdcwM6YVmG8ge7kuvvgpO97szLyiZqsyh05XqOyhapwUYb8iGsToQ",
+    "updated_at": "2025-04-18 09:19:24",
+    "prices": {
+      "USD": 4.18,
+      "EUR": 3.698,
+      "CNY": 30.158,
+      "TRY": 159.221,
+      "KZT": 2164.004
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Fracture Case",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 3,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU2nfGaJG0btN2wwYHfxa-hY-uFxj4Dv50nj7uXpI7w3AewrhBpMWH6d9CLMlhpEbAe-Zk",
+    "updated_at": "2025-04-18 09:19:24",
+    "prices": {
+      "USD": 0.36,
+      "EUR": 0.318,
+      "CNY": 2.597,
+      "TRY": 13.713,
+      "KZT": 186.374
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "MAC-10 | Toybox (Well-Worn)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJgI-SlfjsDLbUkmJE5Yt1i--UrNT0iQOxrkRkYmrwJtSVcwM5NAzX-Vi2kui-jJ_u6MmfznsxpGB8smnX18J6",
+    "updated_at": "2025-04-18 09:19:24",
+    "prices": {
+      "USD": 4.18,
+      "EUR": 3.698,
+      "CNY": 30.158,
+      "TRY": 159.221,
+      "KZT": 2164.004
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "MP7 | Bloodsport (Well-Worn)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFABz7P7YJgJA4NO5kJObmOXgDLbUkmJE5YsoiejHrNSt3FGy8hA6YGj7I4XHI1c4NQzW_ADswrvv1Me9usjAnHI3pGB8sqxGg_GL",
+    "updated_at": "2025-04-18 09:19:24",
+    "prices": {
+      "USD": 2.64,
+      "EUR": 2.336,
+      "CNY": 19.047,
+      "TRY": 100.561,
+      "KZT": 1366.74
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Revolution Case",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQynaHMJT9B74-ywtjYxfOmMe_Vx28AucQj3brAoYrz3Fay_kY4MG_wdYeLMlhpLMaM-1U",
+    "updated_at": "2025-04-18 09:19:24",
+    "prices": {
+      "USD": 0.59,
+      "EUR": 0.522,
+      "CNY": 4.257,
+      "TRY": 22.474,
+      "KZT": 305.446
+    }
+  }
+]
