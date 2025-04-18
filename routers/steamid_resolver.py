@@ -14,7 +14,7 @@ CONFIG_PATH = os.path.join(os.path.dirname(__file__), "../config.ini")
 config = configparser.ConfigParser()
 config.read(CONFIG_PATH)
 
-STEAM_API_KEY = config["steam"].get("api_key", "").strip()
+STEAM_API_KEY = config["steam"].get("steam_api_key", "").strip()
 
 LOG_DIR = "./logs"
 os.makedirs(LOG_DIR, exist_ok=True)

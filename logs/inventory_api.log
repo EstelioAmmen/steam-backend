@@ -103,3 +103,5 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2025-04-18 05:58:50,073 - ERROR - ResolveVanityURL bad response 403: <html><head><title>Forbidden</title></head><body><h1>Forbidden</h1>Access is denied. Retrying will not help. Please veri
 2025-04-18 06:00:05,913 - INFO - HTTP Request: GET https://api.steampowered.com/ISteamUser/ResolveVanityURL/v1/?key=V3rujQwgvIUj0FVpOVByPZND5yE&vanityurl=MannCoKey "HTTP/1.1 403 Forbidden"
 2025-04-18 06:00:05,916 - ERROR - ResolveVanityURL bad response 403: <html><head><title>Forbidden</title></head><body><h1>Forbidden</h1>Access is denied. Retrying will not help. Please veri
+2025-04-18 06:06:23,324 - INFO - HTTP Request: GET https://api.steampowered.com/ISteamUser/ResolveVanityURL/v1/?key=V3rujQwgvIUj0FVpOVByPZND5yE&vanityurl=MannCoKey "HTTP/1.1 403 Forbidden"
+2025-04-18 06:06:23,327 - ERROR - ResolveVanityURL HTTP 403: <html><head><title>Forbidden</title></head><body><h1>Forbidden</h1>Access is denied. Retrying will not help. Please veri
