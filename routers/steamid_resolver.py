@@ -4,6 +4,7 @@ import re
 import configparser
 
 from fastapi import APIRouter, Query, HTTPException, BackgroundTasks
+from typing import Optional
 import httpx
 
 
@@ -43,12 +44,15 @@ JUST_ID_RE  = re.compile(r"^\d{17}$")
 router = APIRouter()
 
 
+from typing import Optional
+
 @router.get("/{appid}/steamid")
 async def resolve_and_trigger_inventory_load(
     appid: str,
     text: str = Query(...),
-    background_tasks: BackgroundTasks | None = None
+    background_tasks: Optional[BackgroundTasks] = None
 ):
+
     """
     Принимает любое «text» от пользователя, извлекает SteamID64,
     а затем фоном вызывает /inventory/{steamid}/{appid}.
