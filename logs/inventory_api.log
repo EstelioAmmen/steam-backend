@@ -83,3 +83,23 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2025-04-18 05:44:14,944 - INFO - ✅ Сохранено 3 предметов в user_inventory для 76561198083135565/730
 2025-04-18 05:44:50,557 - INFO - HTTP Request: GET https://api.steampowered.com/ISteamUser/ResolveVanityURL/v1/?key=V3rujQwgvIUj0FVpOVByPZND5yE&vanityurl=MannCoKey "HTTP/1.1 403 Forbidden"
 2025-04-18 05:45:20,187 - INFO - HTTP Request: GET https://api.steampowered.com/ISteamUser/ResolveVanityURL/v1/?key=V3rujQwgvIUj0FVpOVByPZND5yE&vanityurl=MannCoKey "HTTP/1.1 403 Forbidden"
+2025-04-18 05:51:56,514 - INFO - HTTP Request: GET https://api.steampowered.com/ISteamUser/ResolveVanityURL/v1/?key=V3rujQwgvIUj0FVpOVByPZND5yE&vanityurl=MannCoKey "HTTP/1.1 403 Forbidden"
+2025-04-18 05:51:56,517 - ERROR - ResolveVanityURL bad response 403: <html><head><title>Forbidden</title></head><body><h1>Forbidden</h1>Access is denied. Retrying will not help. Please veri
+2025-04-18 05:53:06,085 - INFO - HTTP Request: GET https://api.steampowered.com/ISteamUser/ResolveVanityURL/v1/?key=V3rujQwgvIUj0FVpOVByPZND5yE&vanityurl=MannCoKey "HTTP/1.1 403 Forbidden"
+2025-04-18 05:53:06,087 - ERROR - ResolveVanityURL bad response 403: <html><head><title>Forbidden</title></head><body><h1>Forbidden</h1>Access is denied. Retrying will not help. Please veri
+2025-04-18 05:57:52,640 - INFO - Resolved 'https://steamcommunity.com/profiles/76561198083135565' → 76561198083135565 (appid=730)
+2025-04-18 05:57:52,643 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561198083135565/730
+2025-04-18 05:57:52,751 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561198083135565/730 "HTTP/1.1 401 Unauthorized"
+2025-04-18 05:57:52,786 - INFO - 📥 Запрос инвентаря: steamid=76561198083135565, appid=730
+2025-04-18 05:57:54,303 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561198083135565/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
+2025-04-18 05:57:54,464 - INFO - ✅ Сохранено 3 предметов в user_inventory для 76561198083135565/730
+2025-04-18 05:58:26,963 - INFO - Resolved 'https://steamcommunity.com/profiles/76561199168992250' → 76561199168992250 (appid=730)
+2025-04-18 05:58:26,967 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561199168992250/730
+2025-04-18 05:58:27,095 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561199168992250/730 "HTTP/1.1 401 Unauthorized"
+2025-04-18 05:58:27,101 - INFO - 📥 Запрос инвентаря: steamid=76561199168992250, appid=730
+2025-04-18 05:58:30,875 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561199168992250/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
+2025-04-18 05:58:31,017 - INFO - ✅ Сохранено 7 предметов в user_inventory для 76561199168992250/730
+2025-04-18 05:58:50,071 - INFO - HTTP Request: GET https://api.steampowered.com/ISteamUser/ResolveVanityURL/v1/?key=V3rujQwgvIUj0FVpOVByPZND5yE&vanityurl=MannCoKey "HTTP/1.1 403 Forbidden"
+2025-04-18 05:58:50,073 - ERROR - ResolveVanityURL bad response 403: <html><head><title>Forbidden</title></head><body><h1>Forbidden</h1>Access is denied. Retrying will not help. Please veri
+2025-04-18 06:00:05,913 - INFO - HTTP Request: GET https://api.steampowered.com/ISteamUser/ResolveVanityURL/v1/?key=V3rujQwgvIUj0FVpOVByPZND5yE&vanityurl=MannCoKey "HTTP/1.1 403 Forbidden"
+2025-04-18 06:00:05,916 - ERROR - ResolveVanityURL bad response 403: <html><head><title>Forbidden</title></head><body><h1>Forbidden</h1>Access is denied. Retrying will not help. Please veri

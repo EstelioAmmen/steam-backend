@@ -31,7 +31,6 @@ SUPPORTED_APPS = {"730", "570", "440", "252490"}             # CS2, Dota 2, TF2
 # ────────────────────────────
 #  Регулярки
 # ────────────────────────────
-#  optional scheme  ─┬─────────┐ optional www ─┬───────────────┐
 VANITY_RE  = re.compile(r"(?:https?://)?(?:www\.)?steamcommunity\.com/id/([^/#?]+)", re.I)
 STEAMID_RE = re.compile(r"(?:https?://)?(?:www\.)?steamcommunity\.com/profiles/(\d+)", re.I)
 JUST_ID_RE = re.compile(r"^\d{17}$")
@@ -48,9 +47,9 @@ async def resolve_and_trigger_inventory_load(
     text: str = Query(...)
 ):
     """
-    Принимает любой ввод пользователя, извлекает SteamID64,
-    запускает фоновый вызов /inventory/{steamid}/{appid},
-    и возвращает {"steamid64": "<id>"} – это ждёт фронт‑энд.
+    Принимает любой ввод (URL / ник / SteamID64), извлекает steamid64,
+    запускает фоновый /inventory/{steamid}/{appid} и возвращает
+    {"steamid64": "<id>"} — это ждёт фронт‑энд.
     """
     if appid not in SUPPORTED_APPS:
         raise HTTPException(400, "Unsupported appid")
@@ -65,13 +64,9 @@ async def resolve_and_trigger_inventory_load(
 #  Вспомогательные функции
 # ────────────────────────────
 def _normalize(text: str) -> str:
-    """
-    Обрезает query, fragment и хвосты /inventory…,
-    приводит ссылку к базовой форме /id/<name> или /profiles/<id>.
-    """
+    """Срезает query/#fragment/хвосты, приводит ссылку к базе /id/<name> или /profiles/<id>."""
     text = text.strip()
 
-    # если пользователь ввёл только домен без схемы
     if text.lower().startswith("steamcommunity.com"):
         text = "https://" + text
 
@@ -79,19 +74,15 @@ def _normalize(text: str) -> str:
         parts = urlsplit(text)
         path  = parts.path
 
-        # Оставляем только первый сегмент /id/<name> или /profiles/<id>
         m = re.match(r"/(id|profiles)/([^/]+)", path, re.I)
         if m:
             clean_path = f"/{m.group(1)}/{m.group(2)}"
             text = f"{parts.scheme}://{parts.netloc}{clean_path}"
-        else:
-            # Неизвестная форма – оставляем как есть
-            text = f"{parts.scheme}://{parts.netloc}{path}"
 
     return text
 
 async def _extract_steamid(text: str) -> str:
-    """Возвращает SteamID64 или бросает HTTPException 404/503/500."""
+    """Возвращает SteamID64 или HTTPException 404/503/500."""
     text = _normalize(text)
 
     if JUST_ID_RE.match(text):
@@ -103,7 +94,7 @@ async def _extract_steamid(text: str) -> str:
     if (m := VANITY_RE.match(text)):
         return await _resolve_vanity(m.group(1))
 
-    # если мы дошли сюда – это, вероятно, "голый" vanity‑ID
+    # «голый» vanity‑ID
     return await _resolve_vanity(text)
 
 async def _resolve_vanity(username: str) -> str:
@@ -120,8 +111,9 @@ async def _resolve_vanity(username: str) -> str:
         logging.error(f"ResolveVanityURL network error: {exc}")
         raise HTTPException(503, "Steam API unreachable")
 
-    if resp.status_code != 200 or "application/json" not in resp.headers.get("content-type", ""):
-        logging.error(f"ResolveVanityURL bad response {resp.status_code}: {resp.text[:120]}")
+    # Steam часто отвечает text/plain; нам важен только код 200
+    if resp.status_code != 200:
+        logging.error(f"ResolveVanityURL HTTP {resp.status_code}: {resp.text[:120]}")
         raise HTTPException(503, "Steam API error")
 
     data = resp.json().get("response", {})
