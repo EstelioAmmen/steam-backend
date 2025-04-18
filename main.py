@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from auth import router as auth_router
 from inventory import router as inventory_router
+from routers import steamid_resolver
 
 from starlette.middleware.sessions import SessionMiddleware
 from fastapi.middleware.cors import CORSMiddleware
@@ -27,3 +28,4 @@ app.add_middleware(
 # Подключение роутеров
 app.include_router(auth_router)
 app.include_router(inventory_router)
+app.include_router(steamid_resolver.router)
