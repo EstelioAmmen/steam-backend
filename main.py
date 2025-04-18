@@ -6,6 +6,15 @@ from routers import steamid_resolver
 from starlette.middleware.sessions import SessionMiddleware
 from fastapi.middleware.cors import CORSMiddleware
 
+import configparser
+import os
+
+# === КОНФИГ ===
+config = configparser.ConfigParser()
+config.read(os.path.join(os.path.dirname(__file__), 'config.ini'))
+
+SESSION_SECRET = config['app']['session_secret']
+
 app = FastAPI()
 
 # CORS
@@ -20,7 +29,7 @@ app.add_middleware(
 # Сессии
 app.add_middleware(
     SessionMiddleware,
-    secret_key="super_secret_key",
+    secret_key=SESSION_SECRET,
     same_site="none",
     https_only=True
 )
