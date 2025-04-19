@@ -519,3 +519,5 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2025-04-19 10:41:41,614 - INFO - 📥 Запрос инвентаря: steamid=76561199438464889, appid=730
 2025-04-19 10:41:43,132 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561199438464889/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
 2025-04-19 10:41:43,263 - INFO - ✅ Сохранено 31 предметов в user_inventory для 76561199438464889/730
+2025-04-19 10:42:31,397 - INFO - 🚀 Формирование JSON для 76561199438464889
+2025-04-19 10:42:34,008 - INFO - ✅ /root/Site/inventoryJson/76561199438464889.json создан (115 позиций)
