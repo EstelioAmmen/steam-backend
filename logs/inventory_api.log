@@ -431,3 +431,5 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2025-04-19 10:38:11,311 - INFO - Resolved 'https://steamcommunity.com/profiles/76561198083135565' → 76561198083135565 (appid=570)
 2025-04-19 10:38:11,313 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561198083135565/570
 2025-04-19 10:38:11,417 - INFO - ✅ /root/Site/inventoryJson/76561199438464889.json создан (11 позиций)
+2025-04-19 10:38:11,485 - INFO - 📥 Запрос инвентаря: steamid=76561198083135565, appid=570
+2025-04-19 10:38:11,580 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561198083135565/570 "HTTP/1.1 401 Unauthorized"
