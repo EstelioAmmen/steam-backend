@@ -1,0 +1,277 @@
+[
+  {
+    "appid": 730,
+    "market_hash_name": "AK-47 | Ice Coaled (Field-Tested)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 5,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5k5SDnvnzIITck29Y_cg_j76WrNSi3gPmrhdtNW2iJY6QcQ84M1nR81G7we_o08DquJSYzndkvD5iuygYsMTI2g",
+    "updated_at": "2025-04-19 16:38:05",
+    "prices": {
+      "USD": 5.86,
+      "RUB": 482.37,
+      "EUR": 5.18,
+      "CNY": 42.28,
+      "TRY": 223.21,
+      "KZT": 3033.75
+    },
+    "prices_full": {
+      "USD": 29.3,
+      "RUB": 2411.85,
+      "EUR": 25.9,
+      "CNY": 211.4,
+      "TRY": 1116.05,
+      "KZT": 15168.75
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "AK-47 | Nightwish (Battle-Scarred)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 2,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09K_k4ifgP7nO4TZk2pH8Ysp2-rFo9n33wyx_BU4Z2umdoPEdA82ZA7Y_1K6kL3r1sC_75idm3RmpGB8smemByXA",
+    "updated_at": "2025-04-19 16:38:05",
+    "prices": {
+      "USD": 7.28,
+      "RUB": 599.25,
+      "EUR": 6.44,
+      "CNY": 52.52,
+      "TRY": 277.3,
+      "KZT": 3768.89
+    },
+    "prices_full": {
+      "USD": 14.56,
+      "RUB": 1198.5,
+      "EUR": 12.88,
+      "CNY": 105.04,
+      "TRY": 554.6,
+      "KZT": 7537.78
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "AK-47 | Slate (Well-Worn)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 5,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV08ykm4aOhOT9PLXQmlRc7cF4n-SP9tXwjgLs-ko5ZGnxJISWJFI4N1DUrlm2k-bu05S86MyfwXc3v3Mg4mGdwUIg2vE7lg",
+    "updated_at": "2025-04-19 16:38:05",
+    "prices": {
+      "USD": 4.29,
+      "RUB": 353.13,
+      "EUR": 3.8,
+      "CNY": 30.95,
+      "TRY": 163.41,
+      "KZT": 2220.95
+    },
+    "prices_full": {
+      "USD": 21.45,
+      "RUB": 1765.65,
+      "EUR": 19.0,
+      "CNY": 154.75,
+      "TRY": 817.05,
+      "KZT": 11104.75
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Charm Detachment Pack",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 4,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcU5rAJeRE3ZSdu_0sLcRVhLMQtYuoW1KgRrnaOQdWkStdnlkISJlqGhZL6IkzIJvsN12LCU9t30igPm_EI-NW3xJ9SLMlhpxR37RKc",
+    "updated_at": "2025-04-19 16:38:05",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Desert Eagle | Mecha Industries (Field-Tested)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 4,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PTbTjlH7du6kb-GkvT8MoTck29Y_cg_3O3HpIjx2wOwqEtqNTz2LdPHdQ4-MwyCrgS6lOjpjMO7uc_NyHIwvD5iuyh_6VZeCg",
+    "updated_at": "2025-04-19 16:38:05",
+    "prices": {
+      "USD": 5.72,
+      "RUB": 470.84,
+      "EUR": 5.06,
+      "CNY": 41.27,
+      "TRY": 217.88,
+      "KZT": 2961.27
+    },
+    "prices_full": {
+      "USD": 22.88,
+      "RUB": 1883.36,
+      "EUR": 20.24,
+      "CNY": 165.08,
+      "TRY": 871.52,
+      "KZT": 11845.08
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "M4A4 | Temukau (Field-Tested)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW08izmZWAluLLPr7Vn35cppd0ieySoYqm21Xm80pvNT2mJNOUdQ84aFCC-QK_xu6515LuvpzMyXB9-n51uVO39f4",
+    "updated_at": "2025-04-19 16:38:05",
+    "prices": {
+      "USD": 14.79,
+      "RUB": 1217.44,
+      "EUR": 13.08,
+      "CNY": 106.71,
+      "TRY": 563.37,
+      "KZT": 7656.85
+    },
+    "prices_full": {
+      "USD": 14.79,
+      "RUB": 1217.44,
+      "EUR": 13.08,
+      "CNY": 106.71,
+      "TRY": 563.37,
+      "KZT": 7656.85
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "MAC-10 | Disco Tech (Field-Tested)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 2,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJmoGIhfLLPr7Vn35cppZ32u-Qp92ijgzk-kdqZj_0JdeVcFQ8YlzR-1m-xr_q1JC_vczOnXt9-n512ovruPU",
+    "updated_at": "2025-04-19 16:38:05",
+    "prices": {
+      "USD": 3.2,
+      "RUB": 263.41,
+      "EUR": 2.83,
+      "CNY": 23.09,
+      "TRY": 121.89,
+      "KZT": 1656.65
+    },
+    "prices_full": {
+      "USD": 6.4,
+      "RUB": 526.82,
+      "EUR": 5.66,
+      "CNY": 46.18,
+      "TRY": 243.78,
+      "KZT": 3313.3
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "P250 | See Ya Later (Field-Tested)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 3,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszYI2gS09-vloWZlOX7MITck29Y_cg_3bmYpNmm0FK3qUY5NWjwJYfEI1U_ZFiF-1e5krztgZTquc_NwSY3sj5iuygDgd78YA",
+    "updated_at": "2025-04-19 16:38:05",
+    "prices": {
+      "USD": 3.49,
+      "RUB": 287.28,
+      "EUR": 3.09,
+      "CNY": 25.18,
+      "TRY": 132.94,
+      "KZT": 1806.79
+    },
+    "prices_full": {
+      "USD": 10.47,
+      "RUB": 861.84,
+      "EUR": 9.27,
+      "CNY": 75.54,
+      "TRY": 398.82,
+      "KZT": 5420.37
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Sealed Graffiti | Keep the Change (Battle Green)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pe2BEHXlJmDHdnWAGQ88ReUMYTnZ92at5OiSF2zKE-ApEgpVL_QE9DBOOZuJOEAjlNlc7Wa3m0tvEwMkZsxWfBbmnSxKNeh2ebZg82s",
+    "updated_at": "2025-04-19 16:38:05",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.14,
+      "KZT": 15.53
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.14,
+      "KZT": 15.53
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "StatTrak™ AK-47 | Ice Coaled (Field-Tested)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5k5SDnvnzIITck29Y_cg_j76WrNSi3gPmrhdtNW2iJY6QcQ84M1nR81G7we_o08DquJSYzndkvD5iuygYsMTI2g",
+    "updated_at": "2025-04-19 16:38:05",
+    "prices": {
+      "USD": 15.55,
+      "RUB": 1280.0,
+      "EUR": 13.76,
+      "CNY": 112.19,
+      "TRY": 592.32,
+      "KZT": 8050.3
+    },
+    "prices_full": {
+      "USD": 15.55,
+      "RUB": 1280.0,
+      "EUR": 13.76,
+      "CNY": 112.19,
+      "TRY": 592.32,
+      "KZT": 8050.3
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "StatTrak™ Desert Eagle | Mecha Industries (Field-Tested)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 3,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PTbTjlH7du6kb-GkvT8MoTck29Y_cg_3O3HpIjx2wOwqEtqNTz2LdPHdQ4-MwyCrgS6lOjpjMO7uc_NyHIwvD5iuyh_6VZeCg",
+    "updated_at": "2025-04-19 16:38:05",
+    "prices": {
+      "USD": 15.25,
+      "RUB": 1255.3,
+      "EUR": 13.49,
+      "CNY": 110.03,
+      "TRY": 580.89,
+      "KZT": 7894.99
+    },
+    "prices_full": {
+      "USD": 45.75,
+      "RUB": 3765.9,
+      "EUR": 40.47,
+      "CNY": 330.09,
+      "TRY": 1742.67,
+      "KZT": 23684.97
+    }
+  }
+]
