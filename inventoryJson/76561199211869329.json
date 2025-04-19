@@ -1250,6 +1250,31 @@
     }
   },
   {
+    "appid": 252490,
+    "market_hash_name": "Cursed Bandana",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 4,
+    "icon_url": "6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835ZY4mLFfCk4nReh8DEiv5ddO64_qLExQ_G7SdeawM0",
+    "updated_at": "2025-04-19 18:13:40",
+    "prices": {
+      "USD": 1.06,
+      "RUB": 87.25,
+      "EUR": 0.94,
+      "CNY": 7.65,
+      "TRY": 40.38,
+      "KZT": 548.77
+    },
+    "prices_full": {
+      "USD": 4.24,
+      "RUB": 349.0,
+      "EUR": 3.76,
+      "CNY": 30.6,
+      "TRY": 161.52,
+      "KZT": 2195.08
+    }
+  },
+  {
     "appid": 570,
     "market_hash_name": "Staff of Winter's Warden",
     "tradable": 0,
@@ -2675,6 +2700,31 @@
     }
   },
   {
+    "appid": 252490,
+    "market_hash_name": "Legacy Kevlar Pants",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 3,
+    "icon_url": "6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835ZY4mLNfCk4nReh8DEiv5dbPa82rLMwRf--6OmhlEw",
+    "updated_at": "2025-04-19 18:13:40",
+    "prices": {
+      "USD": 1.06,
+      "RUB": 87.25,
+      "EUR": 0.94,
+      "CNY": 7.65,
+      "TRY": 40.38,
+      "KZT": 548.77
+    },
+    "prices_full": {
+      "USD": 3.18,
+      "RUB": 261.75,
+      "EUR": 2.82,
+      "CNY": 22.95,
+      "TRY": 121.14,
+      "KZT": 1646.31
+    }
+  },
+  {
     "appid": 570,
     "market_hash_name": "10th Anniversary Dolfrat and Roshinante",
     "tradable": 0,
@@ -4072,6 +4122,31 @@
       "CNY": 0.0,
       "TRY": 0.0,
       "KZT": 0.0
+    }
+  },
+  {
+    "appid": 252490,
+    "market_hash_name": "Cold Hunter SMG",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835ZX5GLEfCk4nReh8DEiv5dbMKo4r7UzQf29RgCXd3E",
+    "updated_at": "2025-04-19 18:13:40",
+    "prices": {
+      "USD": 1.27,
+      "RUB": 104.54,
+      "EUR": 1.12,
+      "CNY": 9.16,
+      "TRY": 48.38,
+      "KZT": 657.48
+    },
+    "prices_full": {
+      "USD": 1.27,
+      "RUB": 104.54,
+      "EUR": 1.12,
+      "CNY": 9.16,
+      "TRY": 48.38,
+      "KZT": 657.48
     }
   },
   {
@@ -8075,6 +8150,31 @@
     }
   },
   {
+    "appid": 252490,
+    "market_hash_name": "Black Gold AR",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835dZ5WLDfCk4nReh8DEiv5dbPq07pLE_RP-3JChQxrg",
+    "updated_at": "2025-04-19 18:13:40",
+    "prices": {
+      "USD": 1.76,
+      "RUB": 144.87,
+      "EUR": 1.56,
+      "CNY": 12.7,
+      "TRY": 67.04,
+      "KZT": 911.16
+    },
+    "prices_full": {
+      "USD": 1.76,
+      "RUB": 144.87,
+      "EUR": 1.56,
+      "CNY": 12.7,
+      "TRY": 67.04,
+      "KZT": 911.16
+    }
+  },
+  {
     "appid": 570,
     "market_hash_name": "Redmoon Assassin's Secret Set",
     "tradable": 0,
@@ -9422,6 +9522,31 @@
       "CNY": 0.0,
       "TRY": 0.0,
       "KZT": 0.0
+    }
+  },
+  {
+    "appid": 252490,
+    "market_hash_name": "Snowman Furnace",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 2,
+    "icon_url": "6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835db7WLGfCk4nReh8DEiv5dYOqo_pL02Sfu4BB4jNkE",
+    "updated_at": "2025-04-19 18:13:40",
+    "prices": {
+      "USD": 0.86,
+      "RUB": 70.79,
+      "EUR": 0.76,
+      "CNY": 6.2,
+      "TRY": 32.76,
+      "KZT": 445.23
+    },
+    "prices_full": {
+      "USD": 1.72,
+      "RUB": 141.58,
+      "EUR": 1.52,
+      "CNY": 12.4,
+      "TRY": 65.52,
+      "KZT": 890.46
     }
   },
   {
@@ -13522,6 +13647,31 @@
       "CNY": 0.0,
       "TRY": 0.0,
       "KZT": 0.0
+    }
+  },
+  {
+    "appid": 252490,
+    "market_hash_name": "Copper Pants",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 5,
+    "icon_url": "6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835dW5mLHfCk4nReh8DEiv5dbP6w6rLYyQvC8YhmMHkg",
+    "updated_at": "2025-04-19 18:13:40",
+    "prices": {
+      "USD": 0.73,
+      "RUB": 60.09,
+      "EUR": 0.65,
+      "CNY": 5.27,
+      "TRY": 27.81,
+      "KZT": 377.92
+    },
+    "prices_full": {
+      "USD": 3.65,
+      "RUB": 300.45,
+      "EUR": 3.25,
+      "CNY": 26.35,
+      "TRY": 139.05,
+      "KZT": 1889.6
     }
   },
   {
