@@ -1,1 +1,202 @@
-[]
+[
+  {
+    "appid": 730,
+    "market_hash_name": "Five-SeveN | Forest Night (Minimal Wear)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09q5hoWYg8j6OrzZglRd4cJ5nqfCpIihjATm8xFrZGrwJIfHcQBrNA7Z_1G9kOfthJPu6M7PySYw6XUh-z-DyAtyoEr3",
+    "updated_at": "2025-04-19 17:43:09",
+    "prices": {
+      "USD": 0.05,
+      "RUB": 4.12,
+      "EUR": 0.04,
+      "CNY": 0.36,
+      "TRY": 1.9,
+      "KZT": 25.89
+    },
+    "prices_full": {
+      "USD": 0.05,
+      "RUB": 4.12,
+      "EUR": 0.04,
+      "CNY": 0.36,
+      "TRY": 1.9,
+      "KZT": 25.89
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Global Offensive Badge",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuk2fDQQFp7a1FU4-rxLVc1h_LOcGQQvovux9fbwKKsMumAxz0CvMYk2b2To9Tz3gD6ux07ellOukQ",
+    "updated_at": "2025-04-19 17:43:09",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Music Kit | Valve, CS:GO",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1rRS_Ko6J-CHVwmdwZV4b_xegJkivWaKTsbv921wtaNz6fyZO-Gxz0EvpUj2b-SpNS7mFqzxFR2Pic",
+    "updated_at": "2025-04-19 17:43:09",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Sealed Graffiti | GGWP (Battle Green)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0puWyTCa5ODKcLnfaGAoxHLYMNG-LrTCiseXBSjDIQuopRl1XePFQ9TVMb5yLOAx9itAdqGq0mFZwCxo8e9VKaVLski0XZO7jplL-GA",
+    "updated_at": "2025-04-19 17:43:09",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.14,
+      "KZT": 15.53
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.14,
+      "KZT": 15.53
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Sealed Graffiti | GTG (Dust Brown)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pvaKUnDzOTLGenWITAYwS7FZN2Dd9zWj4ryXS23JEu1_F1sDePAD92BLac2Xf0xqwtRUp2qqmlFxCh84ftwbKAnsziEXjn7bDOk",
+    "updated_at": "2025-04-19 17:43:09",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.14,
+      "KZT": 15.53
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.14,
+      "KZT": 15.53
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Sealed Graffiti | Toasted (Princess Pink)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0rO2BBTqgPGPGLHSKTQ0_H-ZZNjyP-Tb0sLmUFmvPRLl5S1gHfKVQ-zJMPJuAIVJjg5FYpGm3hUloEgIhYslfLVa_nyJEMI3P1ifT",
+    "updated_at": "2025-04-19 17:43:09",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.14,
+      "KZT": 15.53
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.14,
+      "KZT": 15.53
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Sticker | BLAST.tv | Paris 2023",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycUVFnMUpSsun2Klc10abLdDwSvd7vxITYlvOharqGxzpUucF13b_Drduk3gbm5QMyNG0V0NFJ",
+    "updated_at": "2025-04-19 17:43:09",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.14,
+      "KZT": 15.53
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.14,
+      "KZT": 15.53
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Sticker | NEOFRAG | Paris 2023",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGgpSuby3KgAugaHJJD4WvYu0xtGJz6f1ZeLUxmkJv8Yl07qQp9zz0Qft_Ec5MGj2I5jVLFEctcjRaw",
+    "updated_at": "2025-04-19 17:43:09",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.14,
+      "KZT": 15.53
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.14,
+      "KZT": 15.53
+    }
+  }
+]
