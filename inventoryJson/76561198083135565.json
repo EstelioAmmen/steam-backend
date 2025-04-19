@@ -8400,6 +8400,31 @@
     }
   },
   {
+    "appid": 440,
+    "market_hash_name": "Summer 2023 Cosmetic Case",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIYwocSBXrrCF8i8f1APeYAeM_mNsm4K9GzDtmlBMpZLHmDztmYAPHT6EIWa07og2-UHVq6sU6B9Lj8u9XLA-9s4DHNeQsZYlOGMPVWvTXZQvjqhVvFZa3yiY",
+    "updated_at": "2025-04-19 15:47:42",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.14,
+      "KZT": 15.53
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.14,
+      "KZT": 15.53
+    }
+  },
+  {
     "appid": 570,
     "market_hash_name": "Style of Regal Ruin",
     "tradable": 0,
