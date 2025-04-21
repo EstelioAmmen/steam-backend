@@ -1057,3 +1057,4 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2025-04-21 12:57:17,890 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561198117556894/570/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE&start_assetid=26582736046 "HTTP/1.1 200 OK"
 2025-04-21 12:57:18,152 - INFO - ✅ Сохранено 2030 предметов в user_inventory для 76561198117556894/570
 2025-04-21 12:57:23,381 - INFO - 🚀 Формирование JSON для 76561198117556894
+2025-04-21 12:57:26,238 - INFO - ✅ /root/Site/inventoryJson/76561198117556894.json создан (1837 позиций)
