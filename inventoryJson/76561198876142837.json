@@ -930,4 +930,273 @@
     "tradable": 0,
     "marketable": 0,
     "count": 1,
-    "icon_url": 
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuk2fDQQFp7a1FU4-rxLVc1h_LOcGQQvovux9fbwKKsMumAxz0CvMYk2b2To9Tz3gD6ux07ellOukQ",
+    "updated_at": "2025-04-21 16:24:21",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Graffiti | Worry (Jungle Green)",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pO-CI2P4eiXdYXaAGVwwGbYNZDnc-2antOnAQj-bRuwuQAAAeqFQpzFMacjdbkds3NUVu2u_0UdyEhk6f9BKZAarxm1OZexyyXUT1c7VWHg",
+    "updated_at": "2025-04-21 16:24:21",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "MP7 | Army Recon (Minimal Wear)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRw7ODYYzxb092kmZm0m_7zO6-fx25QupIi273D8I6n2gWxqkQ4Yzj7I4eWcwI5ZFzVr1a2k-7rgpDpvYOJlyXfnvpTpA",
+    "updated_at": "2025-04-21 16:24:21",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.7
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.7
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "MP7 | Forest DDPAT (Field-Tested)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFA957PfMYTxW09GzkImemrmjN-KGxTxQ6ZcoibnC99Sn2gTkqRBsYGihJYKSIVVrZQrT-wfowurmm9bi664tmMvq",
+    "updated_at": "2025-04-21 16:24:21",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.7
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.7
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "MP9 | Slide (Field-Tested)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FA957ODYfTxW-Nmkx7-GkvP9JraflDhV65Uh2L7H9IjzjAzgrkI6ZTv0JISSelBoZVzS-1LqwOq905Xvu4OJlyUmDV0LZA",
+    "updated_at": "2025-04-21 16:24:21",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.7
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.7
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Music Kit | Valve, CS:GO",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1rRS_Ko6J-CHVwmdwZV4b_xegJkivWaKTsbv921wtaNz6fyZO-Gxz0EvpUj2b-SpNS7mFqzxFR2Pic",
+    "updated_at": "2025-04-21 16:24:21",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Nova | Mandrel (Factory New)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszMZD5W_-OxhoWSqPv9NLPF2G8IsZ13ibiXpNSn0QTtqRJsMW73IISRdFM4YV7R8lC-wrvn0Z7p6ZXXiSw0dblmpDA",
+    "updated_at": "2025-04-21 16:24:21",
+    "prices": {
+      "USD": 0.05,
+      "RUB": 4.11,
+      "EUR": 0.04,
+      "CNY": 0.36,
+      "TRY": 1.91,
+      "KZT": 26.17
+    },
+    "prices_full": {
+      "USD": 0.05,
+      "RUB": 4.11,
+      "EUR": 0.04,
+      "CNY": 0.36,
+      "TRY": 1.91,
+      "KZT": 26.17
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Nova | Mandrel (Field-Tested)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszMZD5W_-OxhoWSqPrxN7LEmyUE6Z1137nEpN_wjgCwrkdramryJ4TEJFU6NVnT-Vjvleu7jMK4tcib1zI97aB3eEij",
+    "updated_at": "2025-04-21 16:24:21",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.7
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.7
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Nova | Polar Mesh (Minimal Wear)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zFdC5K092kl5SClMj3PLXFhGpC_Pp9g-7J4cL0jgG2-0NrZTv3dtWUJFQ9MFiBrwe5wLi8hZPo6ZrOmnE1vHQqtnvegVXp1ove-1eM",
+    "updated_at": "2025-04-21 16:24:21",
+    "prices": {
+      "USD": 0.05,
+      "RUB": 4.11,
+      "EUR": 0.04,
+      "CNY": 0.36,
+      "TRY": 1.91,
+      "KZT": 26.17
+    },
+    "prices_full": {
+      "USD": 0.05,
+      "RUB": 4.11,
+      "EUR": 0.04,
+      "CNY": 0.36,
+      "TRY": 1.91,
+      "KZT": 26.17
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Nova | Predator (Well-Worn)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zSdD9Q7d-3mb-GkvP9JraflDhXvMdw27jFp4_32FLl-UpkNmj0LNKWcQI4NA3Wq1TvkL_p15K0uIOJlyUBLttwMQ",
+    "updated_at": "2025-04-21 16:24:21",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.7
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.7
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "USP-S | Night Ops (Minimal Wear)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09Svq5aKhf73MrbeqWVY781lteXI8oThxgaw_UE9YW_0cYDGJFc7Y12E81Lowevphp66tJ2bnCA27iEj5HnYzkapwUYb1xYiDUI",
+    "updated_at": "2025-04-21 16:24:21",
+    "prices": {
+      "USD": 0.74,
+      "RUB": 60.81,
+      "EUR": 0.65,
+      "CNY": 5.34,
+      "TRY": 28.27,
+      "KZT": 387.34
+    },
+    "prices_full": {
+      "USD": 0.74,
+      "RUB": 60.81,
+      "EUR": 0.65,
+      "CNY": 5.34,
+      "TRY": 28.27,
+      "KZT": 387.34
+    }
+  }
+]
