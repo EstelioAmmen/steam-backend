@@ -1022,3 +1022,4 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2025-04-21 12:46:52,155 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561198117556894/570 "HTTP/1.1 401 Unauthorized"
 2025-04-21 12:46:52,534 - INFO - 📥 Запрос инвент: steamid=76561198117556894, appid=570, start=0
 2025-04-21 12:46:53,706 - INFO - 🚀 Формирование JSON для 76561198117556894
+2025-04-21 12:46:56,885 - INFO - ✅ /root/Site/inventoryJson/76561198117556894.json создан (1810 позиций)
