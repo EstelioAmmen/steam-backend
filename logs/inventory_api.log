@@ -857,3 +857,4 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2025-04-21 08:11:29,857 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561198083135565/570 "HTTP/1.1 401 Unauthorized"
 2025-04-21 08:11:29,892 - INFO - 📥 Запрос инвентаря: steamid=76561198083135565, appid=570
 2025-04-21 08:11:32,245 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561198083135565/570/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
+2025-04-21 08:11:33,179 - INFO - ✅ Сохранено 2000 предметов в user_inventory для 76561198083135565/570
