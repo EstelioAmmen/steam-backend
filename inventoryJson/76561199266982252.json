@@ -1,0 +1,302 @@
+[
+  {
+    "appid": 730,
+    "market_hash_name": "Glock-18 | Snack Attack (Well-Worn)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJh46KlPz1J6_QlWBu5cB1g_zMu92i21G2qRI4ZjqnJNXEJAU8N13Y-wDrxrrshsLt78_MmHs2uyMkty3D30vg_M57TP0",
+    "updated_at": "2025-04-21 13:40:50",
+    "prices": {
+      "USD": 4.83,
+      "RUB": 396.92,
+      "EUR": 4.25,
+      "CNY": 34.84,
+      "TRY": 184.53,
+      "KZT": 2528.15
+    },
+    "prices_full": {
+      "USD": 4.83,
+      "RUB": 396.92,
+      "EUR": 4.25,
+      "CNY": 34.84,
+      "TRY": 184.53,
+      "KZT": 2528.15
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "SCAR-20 | Contractor (Field-Tested)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 2,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODHTi1P7-O7kYSCgvq6YerUwjoEvpQli7jF9tn22gW2-0ptaz-mJobDcFc6Mg7Tq1C_yO_qjIj84sqdG42CZQ",
+    "updated_at": "2025-04-21 13:40:50",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.7
+    },
+    "prices_full": {
+      "USD": 0.06,
+      "RUB": 4.94,
+      "EUR": 0.06,
+      "CNY": 0.44,
+      "TRY": 2.3,
+      "KZT": 31.4
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Snakebite Case",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU4naLOJzgUuYqyzIaIxa6jMOLXxGkHvcMjibmU99Sg3Qaw-hA_ZWrzLISLMlhpgJJUhGE",
+    "updated_at": "2025-04-21 13:40:50",
+    "prices": {
+      "USD": 0.41,
+      "RUB": 33.69,
+      "EUR": 0.36,
+      "CNY": 2.96,
+      "TRY": 15.66,
+      "KZT": 214.6
+    },
+    "prices_full": {
+      "USD": 0.41,
+      "RUB": 33.69,
+      "EUR": 0.36,
+      "CNY": 2.96,
+      "TRY": 15.66,
+      "KZT": 214.6
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "StatTrak™ MP7 | Special Delivery (Factory New)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJB4N2lh4mNnvLwDLfYkWNFppV03-zH8Y2jiQLj-0BrNj_xdYPAe1Q6NViC_APrlO7vgsft6pnJwXF9-n5171LMNZs",
+    "updated_at": "2025-04-21 13:40:50",
+    "prices": {
+      "USD": 10.23,
+      "RUB": 840.68,
+      "EUR": 9.0,
+      "CNY": 73.78,
+      "TRY": 390.83,
+      "KZT": 5354.66
+    },
+    "prices_full": {
+      "USD": 10.23,
+      "RUB": 840.68,
+      "EUR": 9.0,
+      "CNY": 73.78,
+      "TRY": 390.83,
+      "KZT": 5354.66
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "StatTrak™ MP9 | Modest Threat (Field-Tested)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FABz7P7YKAJB49C5mpnbxsj5Nr_Yg2YfuZZzi-_H9o2i2QTt_0BrYDrxd4bBIQY-aVHV8lLol-rphZTvu5mYy2wj5Hdzzdqv4A",
+    "updated_at": "2025-04-21 13:40:50",
+    "prices": {
+      "USD": 0.26,
+      "RUB": 21.37,
+      "EUR": 0.23,
+      "CNY": 1.88,
+      "TRY": 9.93,
+      "KZT": 136.09
+    },
+    "prices_full": {
+      "USD": 0.26,
+      "RUB": 21.37,
+      "EUR": 0.23,
+      "CNY": 1.88,
+      "TRY": 9.93,
+      "KZT": 136.09
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "StatTrak™ Negev | Drop Me (Field-Tested)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJl4yOluXLILDIqWZU7Mxkh6fCrNSl3lfk-hBoYmnxI46TcgFoMw7R_QK7k-_r0ce-6Z-YwHM1vyQh-z-DyNK9Tqu2",
+    "updated_at": "2025-04-21 13:40:50",
+    "prices": {
+      "USD": 0.16,
+      "RUB": 13.15,
+      "EUR": 0.14,
+      "CNY": 1.15,
+      "TRY": 6.11,
+      "KZT": 83.75
+    },
+    "prices_full": {
+      "USD": 0.16,
+      "RUB": 13.15,
+      "EUR": 0.14,
+      "CNY": 1.15,
+      "TRY": 6.11,
+      "KZT": 83.75
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "StatTrak™ Negev | Ultralight (Field-Tested)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJgYyfhfb4OrzZglRc7cF4n-SP9tys3wa3-0drZWyid4CTIAU-YFiG_lPswezvhZLp75qdyns2vSF0tmGdwUKnLtpZTA",
+    "updated_at": "2025-04-21 13:40:50",
+    "prices": {
+      "USD": 0.15,
+      "RUB": 12.33,
+      "EUR": 0.13,
+      "CNY": 1.08,
+      "TRY": 5.73,
+      "KZT": 78.51
+    },
+    "prices_full": {
+      "USD": 0.15,
+      "RUB": 12.33,
+      "EUR": 0.13,
+      "CNY": 1.08,
+      "TRY": 5.73,
+      "KZT": 78.51
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "StatTrak™ R8 Revolver | Bone Forged (Field-Tested)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3di59_oSJmIWdnvbgO7rfqWZU7Mxkh6eT89nzjALmrUZtYmrxLNeXdgdqYl7S-gS8x-y71Ja9tJ7Am3ZmuCl0-z-DyLjXB16-",
+    "updated_at": "2025-04-21 13:40:50",
+    "prices": {
+      "USD": 0.17,
+      "RUB": 13.97,
+      "EUR": 0.15,
+      "CNY": 1.23,
+      "TRY": 6.49,
+      "KZT": 88.98
+    },
+    "prices_full": {
+      "USD": 0.17,
+      "RUB": 13.97,
+      "EUR": 0.15,
+      "CNY": 1.23,
+      "TRY": 6.49,
+      "KZT": 88.98
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Sticker | b1t (Champion) | Copenhagen 2024",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 3,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ2dBBotbKkJhdp3P2GcjkXuI_ixtTYx6anZb6AwGhV7MYoiOuUp9yiiwLlqkBsYjunItfAJhh-Pw8jlwJsCg",
+    "updated_at": "2025-04-21 13:40:50",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.47,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.7
+    },
+    "prices_full": {
+      "USD": 0.09,
+      "RUB": 7.41,
+      "EUR": 0.09,
+      "CNY": 0.66,
+      "TRY": 3.45,
+      "KZT": 47.1
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Sticker | Guinea Pig (Holo)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 3,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXx6ACOe-hZ_sV0dLIhFeuL-kFBdp1MzAfjFNooTnktnewPbyYOjXx2gE7JN30-_ArN-i0Qbl-RVoYTuldtWXclc3ZgzOug_px4UWhhI",
+    "updated_at": "2025-04-21 13:40:50",
+    "prices": {
+      "USD": 0.41,
+      "RUB": 33.69,
+      "EUR": 0.36,
+      "CNY": 2.96,
+      "TRY": 15.66,
+      "KZT": 214.6
+    },
+    "prices_full": {
+      "USD": 1.23,
+      "RUB": 101.07,
+      "EUR": 1.08,
+      "CNY": 8.88,
+      "TRY": 46.98,
+      "KZT": 643.8
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Sticker | Hi, My Game Is",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulROXF7ZSeP_h52BHFBtGgNWu7-aIhRfw_LYdC8M6YTizNPelfGiYO3QxToG7pF33r6TrNz20VKw80I_Nm7xLdWUd1BoaEaQpAZ7bOrEHg",
+    "updated_at": "2025-04-21 13:40:50",
+    "prices": {
+      "USD": 0.32,
+      "RUB": 26.3,
+      "EUR": 0.28,
+      "CNY": 2.31,
+      "TRY": 12.23,
+      "KZT": 167.5
+    },
+    "prices_full": {
+      "USD": 0.32,
+      "RUB": 26.3,
+      "EUR": 0.28,
+      "CNY": 2.31,
+      "TRY": 12.23,
+      "KZT": 167.5
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Sticker | Liquid (Holo) | 2020 RMR",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 3,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRPQV6CF7b9mMPaQmJ8KghY-OKgeFQ4hqOZKWgRvo_nkYTaxPLyYr_Slz9QsJUp3--Q9oijigO2r0JyIzekRUKr2XA",
+    "updated_at": "2025-04-21 13:40:50",
+    "prices": {
+      "USD": 0.4,
+      "RUB": 32.87,
+      "EUR": 0.35,
+      "CNY": 2.88,
+      "TRY": 15.28,
+      "KZT": 209.37
+    },
+    "prices_full": {
+      "USD": 1.2,
+      "RUB": 98.61,
+      "EUR": 1.05,
+      "CNY": 8.64,
+      "TRY": 45.84,
+      "KZT": 628.11
+    }
+  }
+]

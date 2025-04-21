@@ -808,3 +808,7 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2025-04-21 07:40:45,880 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561199266982252/730
 2025-04-21 07:40:45,979 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561199266982252/730 "HTTP/1.1 401 Unauthorized"
 2025-04-21 07:40:46,182 - INFO - 📥 Запрос инвентаря: steamid=76561199266982252, appid=730
+2025-04-21 07:40:50,373 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561199266982252/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
+2025-04-21 07:40:50,508 - INFO - ✅ Сохранено 19 предметов в user_inventory для 76561199266982252/730
+2025-04-21 07:40:53,522 - INFO - 🚀 Формирование JSON для 76561199266982252
+2025-04-21 07:40:56,363 - INFO - ✅ /root/Site/inventoryJson/76561199266982252.json создан (12 позиций)
