@@ -663,3 +663,11 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2025-04-21 00:44:45,006 - INFO - ✅ Сохранено 3 предметов в user_inventory для 76561198083135565/730
 2025-04-21 00:44:47,853 - INFO - 🚀 Формирование JSON для 76561198083135565
 2025-04-21 00:44:51,255 - INFO - ✅ /root/Site/inventoryJson/76561198083135565.json создан (342 позиций)
+2025-04-21 05:10:58,058 - INFO - HTTP Request: GET https://api.steampowered.com/ISteamUser/ResolveVanityURL/v1/?key=9E392EAAD16B0148E422A1E00367999B&vanityurl=OmarLEL "HTTP/1.1 200 OK"
+2025-04-21 05:10:58,066 - INFO - Resolved 'https://steamcommunity.com/id/OmarLEL' → 76561198117556894 (appid=570)
+2025-04-21 05:10:58,072 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561198117556894/570
+2025-04-21 05:10:58,181 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561198117556894/570 "HTTP/1.1 401 Unauthorized"
+2025-04-21 05:10:58,201 - INFO - 📥 Запрос инвентаря: steamid=76561198117556894, appid=570
+2025-04-21 05:11:05,268 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561198117556894/570/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
+2025-04-21 05:11:06,239 - INFO - ✅ Сохранено 2000 предметов в user_inventory для 76561198117556894/570
+2025-04-21 05:11:09,107 - INFO - 🚀 Формирование JSON для 76561198117556894
