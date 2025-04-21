@@ -1023,3 +1023,5 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2025-04-21 12:46:52,534 - INFO - 📥 Запрос инвент: steamid=76561198117556894, appid=570, start=0
 2025-04-21 12:46:53,706 - INFO - 🚀 Формирование JSON для 76561198117556894
 2025-04-21 12:46:56,885 - INFO - ✅ /root/Site/inventoryJson/76561198117556894.json создан (1810 позиций)
+2025-04-21 12:46:57,700 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561198117556894/570/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
+2025-04-21 12:46:58,319 - INFO - 📥 Запрос инвент: steamid=76561198117556894, appid=570, start=26582736046
