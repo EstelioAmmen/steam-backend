@@ -1,7 +1,7 @@
 import os
 import logging
 import configparser
-from datetime import datetime, timedelta               # ← добавили timedelta
+from datetime import datetime, timedelta
 from urllib.parse import urlsplit
 
 from fastapi import APIRouter, Request, HTTPException
@@ -16,7 +16,7 @@ config = configparser.ConfigParser()
 config.read(os.path.join(os.path.dirname(__file__), "config.ini"))
 
 # === НАСТРОЙКИ ===
-API_KEY = config["steam"]["api_key"]                   # ключ стороннего SteamApis
+API_KEY = config["steam"]["api_key"]
 BASE_URL = (
     "https://api.steamapis.com/steam/inventory/{steamid}/{appid}/2?api_key=" + API_KEY
 )
@@ -51,28 +51,52 @@ def parse_tags(tags: list) -> tuple[str, str]:
 
 
 async def load_and_store_inventory(steamid: str, appid: int) -> bool:
-    url = BASE_URL.format(steamid=steamid, appid=appid)
-    logging.info(f"📥 Запрос инвентаря: steamid={steamid}, appid={appid}")
+    """
+    Загружает инвентарь частями (по 2 000 предметов), объединяет результаты
+    и сохраняет в таблицу user_inventory.
+    """
+    start_assetid: str | None = None           # курсор постраничной выборки
+    all_assets: list[dict] = []
+    descriptions: dict[tuple[str, str], dict] = {}
 
-    try:
-        async with httpx.AsyncClient(timeout=30) as client:
-            response = await client.get(url)
-            response.raise_for_status()
-            data = response.json()
-    except Exception as e:
-        logging.error(f"❌ Ошибка загрузки с API: {e}")
+    async with httpx.AsyncClient(timeout=30) as client:
+        while True:
+            url = BASE_URL.format(steamid=steamid, appid=appid)
+            if start_assetid:
+                url += f"&start_assetid={start_assetid}"
+
+            logging.info(
+                f"📥 Запрос инвент: steamid={steamid}, appid={appid}, start={start_assetid or '0'}"
+            )
+
+            try:
+                resp = await client.get(url)
+                resp.raise_for_status()
+                data = resp.json()
+            except Exception as e:
+                logging.error(f"❌ Ошибка загрузки с API: {e}")
+                return False
+
+            # аккумулируем данные
+            all_assets.extend(data.get("assets", []))
+            for d in data.get("descriptions", []):
+                descriptions[(d["classid"], d["instanceid"])] = d
+
+            # проверяем, есть ли ещё предметы
+            if data.get("more_items") and data.get("last_assetid"):
+                start_assetid = data["last_assetid"]
+            else:
+                break       # получили всё
+
+    if not all_assets:
+        logging.warning("⚠️ Нет предметов для вставки")
         return False
 
-    assets = data.get("assets", [])
-    descriptions = {
-        (d["classid"], d["instanceid"]): d for d in data.get("descriptions", [])
-    }
-
-    rows = []
-    # московское время: UTC + 3 ч
+    # московское время фиксируем после полной выгрузки
     now = datetime.utcnow() + MSK_OFFSET
+    rows = []
 
-    for asset in assets:
+    for asset in all_assets:
         key = (asset["classid"], asset["instanceid"])
         desc = descriptions.get(key)
         if not desc:
@@ -97,10 +121,6 @@ async def load_and_store_inventory(steamid: str, appid: int) -> bool:
                 now,
             )
         )
-
-    if not rows:
-        logging.warning("⚠️ Нет данных для вставки")
-        return False
 
     try:
         conn = await asyncpg.connect(**DB_CONFIG)
