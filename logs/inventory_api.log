@@ -828,3 +828,16 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2025-04-21 07:58:31,348 - INFO - ✅ Сохранено 2000 предметов в user_inventory для 76561198083135565/570
 2025-04-21 07:58:34,562 - INFO - 🚀 Формирование JSON для 76561198083135565
 2025-04-21 07:58:37,640 - INFO - ✅ /root/Site/inventoryJson/76561198083135565.json создан (1492 позиций)
+2025-04-21 08:05:30,889 - INFO - Resolved 'https://steamcommunity.com/profiles/76561198083135565' → 76561198083135565 (appid=570)
+2025-04-21 08:05:30,897 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561198083135565/570
+2025-04-21 08:05:31,013 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561198083135565/570 "HTTP/1.1 401 Unauthorized"
+2025-04-21 08:05:31,036 - INFO - 📥 Запрос инвентаря: steamid=76561198083135565, appid=570
+2025-04-21 08:05:34,048 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561198083135565/570/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
+2025-04-21 08:05:35,059 - INFO - ✅ Сохранено 2000 предметов в user_inventory для 76561198083135565/570
+2025-04-21 08:05:52,272 - INFO - Resolved 'https://steamcommunity.com/profiles/76561198083135565' → 76561198083135565 (appid=570)
+2025-04-21 08:05:52,276 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561198083135565/570
+2025-04-21 08:05:52,392 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561198083135565/570 "HTTP/1.1 401 Unauthorized"
+2025-04-21 08:05:52,421 - INFO - 📥 Запрос инвентаря: steamid=76561198083135565, appid=570
+2025-04-21 08:05:52,569 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561198083135565/570/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
+2025-04-21 08:05:52,979 - INFO - ✅ Сохранено 2000 предметов в user_inventory для 76561198083135565/570
+2025-04-21 08:05:55,849 - INFO - 🚀 Формирование JSON для 76561198083135565
