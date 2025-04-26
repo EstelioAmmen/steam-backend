@@ -1306,3 +1306,5 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2025-04-26 19:16:50,290 - INFO - ✅ /root/Site/inventoryJson/76561198197638899.json создан (84 позиций)
 2025-04-26 19:16:51,160 - INFO - 🚀 Формирование JSON для 76561198197638899
 2025-04-26 19:16:52,519 - INFO - 🚀 Формирование JSON для 76561198197638899
+2025-04-26 19:16:53,405 - INFO - Resolved 'https://steamcommunity.com/profiles/76561198197638899' → 76561198197638899 (appid=730)
+2025-04-26 19:16:53,408 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561198197638899/730
