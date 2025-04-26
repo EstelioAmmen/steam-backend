@@ -1263,3 +1263,10 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2025-04-26 18:53:17,744 - INFO - ✅ /root/Site/inventoryJson/76561198197638899.json создан (84 позиций)
 2025-04-26 18:53:49,986 - INFO - 🚀 Формирование JSON для 76561198197638899
 2025-04-26 18:53:52,267 - INFO - ✅ /root/Site/inventoryJson/76561198197638899.json создан (84 позиций)
+2025-04-26 18:56:49,587 - INFO - Resolved 'https://steamcommunity.com/profiles/76561198197638899' → 76561198197638899 (appid=730)
+2025-04-26 18:56:49,590 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561198197638899/730
+2025-04-26 18:56:49,692 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561198197638899/730 "HTTP/1.1 401 Unauthorized"
+2025-04-26 18:56:49,831 - INFO - 📥 Запрос инвент: steamid=76561198197638899, appid=730, start=0
+2025-04-26 18:56:51,438 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561198197638899/730/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
+2025-04-26 18:56:51,616 - INFO - ✅ Сохранено 87 предметов в user_inventory для 76561198197638899/730
+2025-04-26 18:56:54,478 - INFO - 🚀 Формирование JSON для 76561198197638899
