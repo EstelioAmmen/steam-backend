@@ -1207,3 +1207,18 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2025-04-26 18:06:59,709 - INFO - ✅ /root/Site/inventoryJson/76561198329800344.json создан (31 позиций)
 2025-04-26 18:07:03,246 - INFO - 🚀 Формирование JSON для 76561198329800344
 2025-04-26 18:07:05,372 - INFO - ✅ /root/Site/inventoryJson/76561198329800344.json создан (31 позиций)
+2025-04-26 18:07:25,010 - INFO - HTTP Request: GET https://api.steampowered.com/ISteamUser/ResolveVanityURL/v1/?key=9E392EAAD16B0148E422A1E00367999B&vanityurl=251722848251722848 "HTTP/1.1 200 OK"
+2025-04-26 18:07:25,013 - INFO - Resolved 'https://steamcommunity.com/id/251722848251722848' → 76561198329800344 (appid=570)
+2025-04-26 18:07:25,017 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561198329800344/570
+2025-04-26 18:07:25,109 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561198329800344/570 "HTTP/1.1 401 Unauthorized"
+2025-04-26 18:07:25,263 - INFO - 📥 Запрос инвент: steamid=76561198329800344, appid=570, start=0
+2025-04-26 18:07:28,579 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561198329800344/570/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
+2025-04-26 18:07:29,377 - INFO - ✅ Сохранено 1292 предметов в user_inventory для 76561198329800344/570
+2025-04-26 18:07:37,811 - INFO - HTTP Request: GET https://api.steampowered.com/ISteamUser/ResolveVanityURL/v1/?key=9E392EAAD16B0148E422A1E00367999B&vanityurl=251722848251722848 "HTTP/1.1 200 OK"
+2025-04-26 18:07:37,813 - INFO - Resolved 'https://steamcommunity.com/id/251722848251722848' → 76561198329800344 (appid=570)
+2025-04-26 18:07:37,815 - INFO - Trigger inventory load → http://localhost:8000/inventory/76561198329800344/570
+2025-04-26 18:07:37,918 - INFO - HTTP Request: GET http://localhost:8000/inventory/76561198329800344/570 "HTTP/1.1 401 Unauthorized"
+2025-04-26 18:07:38,047 - INFO - 📥 Запрос инвент: steamid=76561198329800344, appid=570, start=0
+2025-04-26 18:07:38,100 - INFO - HTTP Request: GET https://api.steamapis.com/steam/inventory/76561198329800344/570/2?api_key=V3rujQwgvIUj0FVpOVByPZND5yE "HTTP/1.1 200 OK"
+2025-04-26 18:07:38,432 - INFO - ✅ Сохранено 1292 предметов в user_inventory для 76561198329800344/570
+2025-04-26 18:07:41,302 - INFO - 🚀 Формирование JSON для 76561198329800344

@@ -1,12 +1,12 @@
 [
   {
-    "appid": 730,
-    "market_hash_name": "5 Year Veteran Coin",
+    "appid": 570,
+    "market_hash_name": "10th Anniversary Aghanim's Roshan",
     "tradable": 0,
     "marketable": 0,
     "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fEv2o1t3QXFR6a1xUsLzyLV8zhvGeKTgXvN-0kobYwfGiZuuBxjMA6cEi2bvHpYqkjlD6ux07kojlYcY",
-    "updated_at": "2025-04-26 21:06:53",
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGJe5yEOxXrnQzN6gCnKD4FtK5ojn4ljpfhz2lpfu9C8Vv6D_aaY_cabAXzWSl-0htrFoGyyxxk10sT-Bwo6rI3qRZwYmDMB3QPlK7Ec5YLJcGw",
+    "updated_at": "2025-04-26 21:07:38",
     "prices": {
       "USD": 0.0,
       "RUB": 0.0,
@@ -25,138 +25,13 @@
     }
   },
   {
-    "appid": 730,
-    "market_hash_name": "AUG | Contractor (Field-Tested)",
-    "tradable": 1,
-    "marketable": 1,
-    "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJP6di_gY3FzqagMenQwDwJ7Z1y3LyY893wjALtrUdtYWH3d9XDdlI4N1HS-AC2kPCv28EJ7v_62A",
-    "updated_at": "2025-04-26 21:06:53",
-    "prices": {
-      "USD": 0.03,
-      "RUB": 2.49,
-      "EUR": 0.03,
-      "CNY": 0.22,
-      "TRY": 1.15,
-      "KZT": 15.44
-    },
-    "prices_full": {
-      "USD": 0.03,
-      "RUB": 2.49,
-      "EUR": 0.03,
-      "CNY": 0.22,
-      "TRY": 1.15,
-      "KZT": 15.44
-    }
-  },
-  {
-    "appid": 730,
-    "market_hash_name": "AUG | Sweeper (Field-Tested)",
-    "tradable": 1,
-    "marketable": 1,
-    "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P7NYjV9_92wkZSSlfv1MLDum25V4dB8xO-T8N7wjFDlrhA4MmGhJtWScwVrY1CD_QK5xOy8g8K_uZnMyHVk73E8pSGKrNOKfW8",
-    "updated_at": "2025-04-26 21:06:53",
-    "prices": {
-      "USD": 0.03,
-      "RUB": 2.49,
-      "EUR": 0.03,
-      "CNY": 0.22,
-      "TRY": 1.15,
-      "KZT": 15.44
-    },
-    "prices_full": {
-      "USD": 0.03,
-      "RUB": 2.49,
-      "EUR": 0.03,
-      "CNY": 0.22,
-      "TRY": 1.15,
-      "KZT": 15.44
-    }
-  },
-  {
-    "appid": 730,
-    "market_hash_name": "Clutch Case",
-    "tradable": 1,
-    "marketable": 1,
-    "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY5naqQIz4R7Yjix9bZkvKiZrmAzzlTu5AoibiT8d_x21Wy8hY_MWz1doSLMlhpM3FKbNs",
-    "updated_at": "2025-04-26 21:06:53",
-    "prices": {
-      "USD": 0.8,
-      "RUB": 66.29,
-      "EUR": 0.71,
-      "CNY": 5.77,
-      "TRY": 30.76,
-      "KZT": 411.74
-    },
-    "prices_full": {
-      "USD": 0.8,
-      "RUB": 66.29,
-      "EUR": 0.71,
-      "CNY": 5.77,
-      "TRY": 30.76,
-      "KZT": 411.74
-    }
-  },
-  {
-    "appid": 730,
-    "market_hash_name": "Fracture Case",
-    "tradable": 1,
-    "marketable": 1,
-    "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU2nfGaJG0btN2wwYHfxa-hY-uFxj4Dv50nj7uXpI7w3AewrhBpMWH6d9CLMlhpEbAe-Zk",
-    "updated_at": "2025-04-26 21:06:53",
-    "prices": {
-      "USD": 0.3,
-      "RUB": 24.86,
-      "EUR": 0.26,
-      "CNY": 2.16,
-      "TRY": 11.54,
-      "KZT": 154.4
-    },
-    "prices_full": {
-      "USD": 0.3,
-      "RUB": 24.86,
-      "EUR": 0.26,
-      "CNY": 2.16,
-      "TRY": 11.54,
-      "KZT": 154.4
-    }
-  },
-  {
-    "appid": 730,
-    "market_hash_name": "G3SG1 | Jungle Dashed (Field-Tested)",
-    "tradable": 1,
-    "marketable": 1,
-    "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u5cB1g_zMu4-s2AGy8xJoamr0J9fEcwU4Y1HUrFm2k-ju1sDv7ZWczHZj7iVw4ynD30vg5sRy09E",
-    "updated_at": "2025-04-26 21:06:53",
-    "prices": {
-      "USD": 0.03,
-      "RUB": 2.49,
-      "EUR": 0.03,
-      "CNY": 0.22,
-      "TRY": 1.15,
-      "KZT": 15.44
-    },
-    "prices_full": {
-      "USD": 0.03,
-      "RUB": 2.49,
-      "EUR": 0.03,
-      "CNY": 0.22,
-      "TRY": 1.15,
-      "KZT": 15.44
-    }
-  },
-  {
-    "appid": 730,
-    "market_hash_name": "Global Offensive Badge",
+    "appid": 570,
+    "market_hash_name": "10th Anniversary Arms of Deep Magma",
     "tradable": 0,
     "marketable": 0,
     "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuk2fDQQFp7a1FU4-rxLVc1h_LOcGQQvovux9fbwKKsMumAxz0CvMYk2b2To9Tz3gD6ux07ellOukQ",
-    "updated_at": "2025-04-26 21:06:53",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU3qAlJRF_YRu-oxYDXVlhkGglWsbekZANl1uP3fDxF4d2JlZKGhKa6MOuGzm5SvpUk3u_F9NWl2VW2qUc5a2H0JoSVelU9NFGE_gO5wLq504j84spXWRq9YQ",
+    "updated_at": "2025-04-26 21:07:38",
     "prices": {
       "USD": 0.0,
       "RUB": 0.0,
@@ -175,13 +50,13 @@
     }
   },
   {
-    "appid": 730,
-    "market_hash_name": "Graffiti | Death Sentence (Princess Pink)",
+    "appid": 570,
+    "market_hash_name": "10th Anniversary Belt of Deep Magma",
     "tradable": 0,
     "marketable": 0,
     "count": 1,
-    "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0o_ePHnjyVzPBLiWXTQ8wH-VWMmmK-TCh5OSWFj2fF7wtR1gGK6FX9TdNP8yBOEE6gIUP_iuomUM7HRkkfddLZQOvw2QfKOB8zHREcsqFRodG5A",
-    "updated_at": "2025-04-26 21:06:53",
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_PV0d6pJnOW7lNnu4Px70nYTBz2k5ev-Sde_82jaaNgIc-RC2uEkKAg4LU7H3vqzUwktznXzNn7eH3GOwQmCZN0RbYCsUSwkIblNr604Qfclcsbmk8NQ_pX",
+    "updated_at": "2025-04-26 21:07:38",
     "prices": {
       "USD": 0.0,
       "RUB": 0.0,
@@ -200,13 +75,13 @@
     }
   },
   {
-    "appid": 730,
-    "market_hash_name": "Graffiti | GTG (Wire Blue)",
+    "appid": 570,
+    "market_hash_name": "10th Anniversary Dark Moon Armor",
     "tradable": 0,
     "marketable": 0,
     "count": 1,
-    "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pvaKUnDzOTLGenWITAYwS7FZN2Dd9zWj4ryXS23JEu1_F1sDePAD92BLac2Xf0xqwtRUp2qqmlFxCh84ftwbJg26n3ZB3rRcc7Q",
-    "updated_at": "2025-04-26 21:06:53",
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGJazz1j_VPnAwvWjIHWT6VNK-Y7m61fmfg30jIXv8yNk6_O8Y5tgL_-dQDbIwu0usrZvHn7rwU505WiBn92ucXKebgcmCJNxQuFY5he_wYeyMLz8p1uJrZ1sRh0",
+    "updated_at": "2025-04-26 21:07:38",
     "prices": {
       "USD": 0.0,
       "RUB": 0.0,
@@ -225,88 +100,13 @@
     }
   },
   {
-    "appid": 730,
-    "market_hash_name": "MAC-10 | Light Box (Battle-Scarred)",
-    "tradable": 1,
-    "marketable": 1,
-    "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf3vLLIG195dC6gZOCmPnLO77QgHIfvpF1i7uU99-h2lax80s4YGHxcoKVIA8_NQmD-FO8xObs1J-56pzAm2wj5He-Fl8F3A",
-    "updated_at": "2025-04-26 21:06:53",
-    "prices": {
-      "USD": 0.09,
-      "RUB": 7.46,
-      "EUR": 0.08,
-      "CNY": 0.65,
-      "TRY": 3.46,
-      "KZT": 46.32
-    },
-    "prices_full": {
-      "USD": 0.09,
-      "RUB": 7.46,
-      "EUR": 0.08,
-      "CNY": 0.65,
-      "TRY": 3.46,
-      "KZT": 46.32
-    }
-  },
-  {
-    "appid": 730,
-    "market_hash_name": "MP9 | Sand Dashed (Field-Tested)",
-    "tradable": 1,
-    "marketable": 1,
-    "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FBRw7OfJYTh9_9S5hpS0hPb6N4Tck29Y_cg_3OyTooitiwLhqEVkZWGnJteVIQQ4MFGB_lW7yOrt0ZG4v5jIyXZguT5iuyjLBoEOtg",
-    "updated_at": "2025-04-26 21:06:53",
-    "prices": {
-      "USD": 0.03,
-      "RUB": 2.49,
-      "EUR": 0.03,
-      "CNY": 0.22,
-      "TRY": 1.15,
-      "KZT": 15.44
-    },
-    "prices_full": {
-      "USD": 0.03,
-      "RUB": 2.49,
-      "EUR": 0.03,
-      "CNY": 0.22,
-      "TRY": 1.15,
-      "KZT": 15.44
-    }
-  },
-  {
-    "appid": 730,
-    "market_hash_name": "MP9 | Sand Dashed (Minimal Wear)",
-    "tradable": 1,
-    "marketable": 1,
-    "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FBRw7OfJYTh9_9S5hpS0hPb6N4Tdn2xZ_IsliL_EpdSl3VGx-xU6ZW30doKVdgI6NVHX-QS8ku7v1MO9vpjPyntmpGB8slhomWfV",
-    "updated_at": "2025-04-26 21:06:53",
-    "prices": {
-      "USD": 0.03,
-      "RUB": 2.49,
-      "EUR": 0.03,
-      "CNY": 0.22,
-      "TRY": 1.15,
-      "KZT": 15.44
-    },
-    "prices_full": {
-      "USD": 0.03,
-      "RUB": 2.49,
-      "EUR": 0.03,
-      "CNY": 0.22,
-      "TRY": 1.15,
-      "KZT": 15.44
-    }
-  },
-  {
-    "appid": 730,
-    "market_hash_name": "Music Kit | Valve, CS:GO",
+    "appid": 570,
+    "market_hash_name": "10th Anniversary Dolfrat and Roshinante",
     "tradable": 0,
     "marketable": 0,
     "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1rRS_Ko6J-CHVwmdwZV4b_xegJkivWaKTsbv921wtaNz6fyZO-Gxz0EvpUj2b-SpNS7mFqzxFR2Pic",
-    "updated_at": "2025-04-26 21:06:53",
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIa5zlm5VeSb0N2eMXSZ7lNsu5Tj1V3oTxb0h6mxrTZT0POgZq17JeKAD3WJj-sm47loGnDilkkh4WXWn46vci3Fbg4nA8cmQOADs0Pux4DiY7y25VHAy9UScO5rTBM",
+    "updated_at": "2025-04-26 21:07:38",
     "prices": {
       "USD": 0.0,
       "RUB": 0.0,
@@ -325,113 +125,713 @@
     }
   },
   {
-    "appid": 730,
-    "market_hash_name": "Nova | Caged Steel (Minimal Wear)",
-    "tradable": 1,
-    "marketable": 1,
+    "appid": 570,
+    "market_hash_name": "10th Anniversary Filmtail",
+    "tradable": 0,
+    "marketable": 0,
     "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhh3szHZzxO09SzjL-HnvD8J_WGwDJS6ZQo2-iWodih2QzgrkdqZ2CmIIfEelNrYFCDq1i2kL3vhsfoot2Xnu1dMzIh",
-    "updated_at": "2025-04-26 21:06:53",
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIa5zlm5VeSbxZixCniY8ER88ZW77Av3fh7-i4Tp-DAKoab6OqFuJPXDXT7Jluwn5-NrHyuywk5xtmTWyY34cHufPFImDcBwELQU8k7v8DicLB4",
+    "updated_at": "2025-04-26 21:07:38",
     "prices": {
-      "USD": 0.2,
-      "RUB": 16.57,
-      "EUR": 0.18,
-      "CNY": 1.44,
-      "TRY": 7.69,
-      "KZT": 102.94
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
     },
     "prices_full": {
-      "USD": 0.2,
-      "RUB": 16.57,
-      "EUR": 0.18,
-      "CNY": 1.44,
-      "TRY": 7.69,
-      "KZT": 102.94
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
     }
   },
   {
-    "appid": 730,
-    "market_hash_name": "Nova | Dark Sigil (Factory New)",
-    "tradable": 1,
-    "marketable": 1,
+    "appid": 570,
+    "market_hash_name": "10th Anniversary Heaven-Piercing Pauldrons",
+    "tradable": 0,
+    "marketable": 0,
     "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhu3OXJTjlQ7de9lZK0m_7zO6-fzj8C7sYhiLiR94702QDn_UJrNmv2dYLDcFU8ZVrX_1frlennjcC97oOJlyX_Py1n0g",
-    "updated_at": "2025-04-26 21:06:53",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU7pw1SR0nCCO2g2sDBR1x4GgVFu7W3ZA5t3vzaZTxO092kmY-ZxrmjN7-ClWpSuZMn2ryZp4im3QTi-UtlZGjyItLDIw9oNQnRq1jvyO7sm9bi63ud_QuB",
+    "updated_at": "2025-04-26 21:07:38",
     "prices": {
-      "USD": 0.36,
-      "RUB": 29.83,
-      "EUR": 0.32,
-      "CNY": 2.6,
-      "TRY": 13.84,
-      "KZT": 185.28
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
     },
     "prices_full": {
-      "USD": 0.36,
-      "RUB": 29.83,
-      "EUR": 0.32,
-      "CNY": 2.6,
-      "TRY": 13.84,
-      "KZT": 185.28
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
     }
   },
   {
-    "appid": 730,
-    "market_hash_name": "Nova | Dark Sigil (Minimal Wear)",
-    "tradable": 1,
-    "marketable": 1,
+    "appid": 570,
+    "market_hash_name": "10th Anniversary Hidden Vector - Armor",
+    "tradable": 0,
+    "marketable": 0,
     "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhu3OXJTjlQ7de9lZK0m_7zO6-fzj8C7sYhiLiR94702QDn_UJrNmv2dYLDcFU8ZVrX_1frlennjcC97oOJlyX_Py1n0g",
-    "updated_at": "2025-04-26 21:06:53",
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH-Dbys6eJmue919hu5H7413YUg34jJ_0wiRa4_78OJtkLf2cHHORzaFgv-htcDqjnA8upwKDm4P1c3v4N1t9VdA0FLtl41LlzZbmKe_l51aKjN0UzXqvhisc531qsOtRVKUt-KDQ3VuXOeU45JUDJq2vHkmQGEJYJYr2raw",
+    "updated_at": "2025-04-26 21:07:38",
     "prices": {
-      "USD": 0.21,
-      "RUB": 17.4,
-      "EUR": 0.19,
-      "CNY": 1.51,
-      "TRY": 8.07,
-      "KZT": 108.08
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
     },
     "prices_full": {
-      "USD": 0.21,
-      "RUB": 17.4,
-      "EUR": 0.19,
-      "CNY": 1.51,
-      "TRY": 8.07,
-      "KZT": 108.08
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
     }
   },
   {
-    "appid": 730,
-    "market_hash_name": "P2000 | Granite Marbleized (Minimal Wear)",
-    "tradable": 1,
-    "marketable": 1,
+    "appid": 570,
+    "market_hash_name": "10th Anniversary Hidden Vector - Belt",
+    "tradable": 0,
+    "marketable": 0,
     "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqPv9NLPF2DtTusEk2-yX8dih2AOy8xJtZm-iIdSQJAFqNwuE_QS5yLu5hpLuvs7XiSw0800sPEQ",
-    "updated_at": "2025-04-26 21:06:53",
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH-Dbys6eJmue919hu5H7413YUg34jJ_0wiRa4_78OJtkLf2cHHORzaFgv-htcDqjnA8upwKDm4P1c3v4N1t9VdA0FLtl4EXk1tX5Me7n5laIiN9Mmy6q2CJBv3s6tupWU_cl8q3ViwjCMbJu5sNSIf6jRQPOBkuTmUa7Bg",
+    "updated_at": "2025-04-26 21:07:38",
     "prices": {
-      "USD": 0.15,
-      "RUB": 12.43,
-      "EUR": 0.13,
-      "CNY": 1.08,
-      "TRY": 5.77,
-      "KZT": 77.2
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
     },
     "prices_full": {
-      "USD": 0.15,
-      "RUB": 12.43,
-      "EUR": 0.13,
-      "CNY": 1.08,
-      "TRY": 5.77,
-      "KZT": 77.2
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
     }
   },
   {
-    "appid": 730,
-    "market_hash_name": "P250 | Boreal Forest (Field-Tested)",
+    "appid": 570,
+    "market_hash_name": "10th Anniversary Hidden Vector - Blade",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH-Dbys6eJmue919hu5H7413YUg34jJ_0wiRa4_78OJtkLf2cHHORzaFgv-htcDqjnA8upwKDm4P1c3v4N1t9VdA0FLtl9UXp0ou5NvS24wHbj4pEz3j6iXlBu3pusOcLBaQsrKTQjwyXOLI_5pNWcq2vGx2MRlxR7_djZSyp",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "10th Anniversary Hidden Vector - Hat",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH-Dbys6eJmue919hu5H7413YUg34jJ_0wiRa4_78OJtkLf2cHHORzaFgv-htcDqjnA8upwKDm4P1c3v4N1t9VdA0FLtl6kXpxtX5P-zh7weMjtpCnyWv3HhO6yY-suYEB6AtqKXVhwqVM7Q55ZgCJa2jSAPOBktV4gN76g",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "10th Anniversary Horns of Deep Magma",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_PV0d6pJnOW7lNnu4Px70nYTBz2k5ev-Sde_82jaaNgIc-bC2aUkKAk4uA5HS_jx0hztWnTz476dnqUPwQmX8ZyR7MNsxbql9HjMe_ksgXWlcsbmhXeEI8S",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "10th Anniversary Lucky Alpine Stalker's Arms",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH-PG0MvuNHeH7Fhwy5Tg61XsRA--n5rw9Cxe0OG6aahmJeKsD3Wd0r845blvFi3rxhx_sDjRyd34I3mTZwQhCMF4TecJuhK-l9K1NuvhswHcjpUFk3ukgzoU9A",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "10th Anniversary Lucky Alpine Stalker's Back",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH-PG0MvuNHeH7Fhwy5Tg61XsRA--n5rw9Cxe0OG6aahmJeKsDGaTyr8447E_TXjnxht342SHztytJyjFaQZzW5NzR7JfsxS5l9PhM762tAWKiJUFk3veL6N0rw",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "10th Anniversary Lucky Alpine Stalker's Belt",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH-PG0MvuNHeH7Fhwy5Tg61XsRA--n5rw9Cxe0OG6aahmJeKsDGKc1b844OMwSSrhxk9_tjuDnN-hdXvCaAYpWJJzQrUKskS8x4LlMb7jtFfbgpUFk3vQWHozRw",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "10th Anniversary Lucky Alpine Stalker's Hat",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH-PG0MvuNHeH7Fhwy5Tg61XsRA--n5rw9Cxe0OG6aahmJeKsBmKRxb845bMxS3u2xURx5muAzd_8JXyeZ1R1CpN0QLMJuhXtkdSzZLvh41bY3pUFk3t4_Jlz9g",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "10th Anniversary Mirana Persona Back",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGI2zyUS1Q7nZytigO3qo9VNn54j66xbqSA_wkJff7SdJ_P2gaZtvIfOYXynGkOsu4bg7Gi_klBlysW-DwtmteHieOAV0W5JzQbNfskG_w9TlP-60-UWA3IXtZccc",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "10th Anniversary Relic Sword",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH-HGwsO1PUSc7Fhyu5Xx5lDkUgr-jJLf6ida__2gJ7ZoLPmQHXCf0-pJp-RoXya9xFMjsGiAyNugeXvEag8iA8F0ReMKthG-k93nZO_r71eNiY9AyCqqjytL8G81tANDdbBm",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "10th Anniversary Staff of Gun-Yu",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU_phVWSVXvTO2j0IDeXFN_IB1ovbOrLDhp3v7HYylD4OOhkYGbmPm7PrTfnW5I1854hO7-_IH4h0agqh8DJDyiZNnLcRg-aAvX_lHqxe--h8W-7ZTIzyFmuyZ37XrczRO30BlLaO1vhPfKSQ6fGeUXS6hKXLwT",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "10th Anniversary Totem of Deep Magma",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_PV0d6pJnOW7lNnu4Px70nYTBz2k5ev-Sde_82jaaNgIc-HAXOVzL8457Y-GHnmzR906mzTwtupJXKUPw8mW8FwQOZZ4BbtltXnNOrntgbc2pUFk3vprxOzYw",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "10-Year Anniversary Loading Screen of Deep Magma",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIm52k-5XvHr0MmzMH6Z9hlx8YLk1VTmRhDwocew6SoVuaP_PKA9cKPDCGGUmO1zsbVrTn-2xEx042uAyd2pcnqUagMmDZVwRvlK7EcipuRtNA",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Abdomen of the Amber Queen",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_TGzMWlOHSD7VNnu4b56Fz1fgzkm5PuwiBa7PmROutsLfKWHFiB1Otzvt5rTiq4qk9p42vTmY2hd3zEPAchXJN3TeUMsEXrxtLvPu7l5wXXgoMXmCv8iH9M6jErvbjUC6F7Ew",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Admiral's Foraged Cap",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_3BzcGqNDSW91tK-ILi1VjjTBTjn5rf_iNLoPO8ZZthJeasD2OdyPx3vN5qTjn9xUx-tziHnt6geXyVO1NxWZIiTLUMsBa_ktbiN-vm7wCMi40Qzy6sjzQJsHj62d_Odg",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Admiral's Stash",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_3BzcGqNDSW91tK-ILi1UrzQA75oZTl8TYU7uCjV6hoNs-AGmaDydF0te19AXnglE5-sm-Ano78c3KfPVB1WMMjQeMCtkPumoDiZO-0tACM395GmyTgznQe8So7Q5c",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Adoring Wingfall",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_nZzcOqO3KQ7UI6-I7z4k3YSRz8k5Pysi9e_PrhZK1qKOSsBmadzOtkj-xmSyy_2x5_sDmEmd-ucX-XbFV2ApFxQLIP4xPqx4CxYr-w7wHWjo9GmS6rjXtXrnE8Y4Dgmeg",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.32,
+      "RUB": 26.52,
+      "EUR": 0.28,
+      "CNY": 2.31,
+      "TRY": 12.3,
+      "KZT": 164.7
+    },
+    "prices_full": {
+      "USD": 0.32,
+      "RUB": 26.52,
+      "EUR": 0.28,
+      "CNY": 2.31,
+      "TRY": 12.3,
+      "KZT": 164.7
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Alluvion Prophecy",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_nGwsmtMDSD7AFK_Yr55UvzQBHOiZPh7S1VoP28aadhJc-HBzCvyON7v_N9TiWMghgmozKL1Nv7cC_EOg8pC8B2R7IC5xS_w4bvYu_n41Paid1MyyioiCwcvSY467kcEf1ypaeRCNI",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 2.97,
+      "RUB": 246.1,
+      "EUR": 2.62,
+      "CNY": 21.42,
+      "TRY": 114.2,
+      "KZT": 1528.59
+    },
+    "prices_full": {
+      "USD": 2.97,
+      "RUB": 246.1,
+      "EUR": 2.62,
+      "CNY": 21.42,
+      "TRY": 114.2,
+      "KZT": 1528.59
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Alphid of Lecaciida",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_Xb1tioMGnY5Fpl_I7w1VbhfhH0nZfj9Ctf7r2vZLRlKfSsAWGvzet1seJgRi2y20l25Wndm9yvdCiVZwcmWZd4RrRe4BS9l9HmP7uxtVTWjYMUz3msiylXrnE8HdTIpCs",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Amber Queen Loading Screen",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIm52k-5XvHr0MmzMH6Z9hl0-YXx-Gb2VBj0kKns8iNf5vypJvVsJvOQVz6UxOh0suBrS362x0wjtz-Ey9uocyiUagUmW5t3Q7IJsRim0oqw0GFMLgI",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Amber Queen's Spiderling",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_TGzMWlOHSD7VNnu5Tk413iUxH4kJGv_C9Z6uCRebFoJf6sHXeZxetkvOhnSBbh2hwqsTiXpZ7sJC7JAUVgU8YlB7tT7EfXkLu5d7mNs1qa2uQXj3Oh2ncWqnc-oYBBEfpxr-aL1laWL7Y45MJQJqujSk6OUE0Gv6xmEt21ztoUWBkcUXSrn1uPjGoP-Fb4ID-xpjQD-19XqT8",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Ancestral Dress",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_LV2dCtMDST5Exv-ILn703YTRj2jdnk_DhB4_e9bbBSLPWUHSnDlOgg4bg9Hy-2kBhxsmTQmN2hJyqQbQQoWMAkEOALsUW6lNTjY-ux-UWA3A92x8li",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Ancestral Luck Set",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGJazz1j_VPnAwvWoIX6a2ld794Ln_kvmTSL9i5XrwjFe-7z3PPZscvHBDGWWmOp15-BrFnq1k0khtm3Wyt2vJ3iePQ4gDJQlF-dZrFDmxV7LDFwZ",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.05,
+      "RUB": 4.14,
+      "EUR": 0.04,
+      "CNY": 0.36,
+      "TRY": 1.92,
+      "KZT": 25.73
+    },
+    "prices_full": {
+      "USD": 0.05,
+      "RUB": 4.14,
+      "EUR": 0.04,
+      "CNY": 0.36,
+      "TRY": 1.92,
+      "KZT": 25.73
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Ancient Armor Arms",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_vb0dqpOXKZ4hl0-oT971fzfhzjk5nywiNJ4uHhaapuKfWdGliR0-N5ot5oXSSg2xh252zRnNeqJCiVPAN2XsMjQ-Jcshjtl9W1MLjkswGLjIJGny_93C9XrnE8fiaiLxo",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.07,
+      "RUB": 5.8,
+      "EUR": 0.06,
+      "CNY": 0.5,
+      "TRY": 2.69,
+      "KZT": 36.03
+    },
+    "prices_full": {
+      "USD": 0.07,
+      "RUB": 5.8,
+      "EUR": 0.06,
+      "CNY": 0.5,
+      "TRY": 2.69,
+      "KZT": 36.03
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Ancient Armor Breastplates",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_vb0dqpOXKZ4hl0-oT971fzfhzjk5nywiBJ6vO9fLRhIeSWHSiRz-1_te99cCihmBI1jD-Xn47qNTvLP0J1SYwiTbNY5BDskIGyYr-zs1fZi4MUzyz2hntAui9r4b0DVPZx-PHXiAvFL_Rjtt3cZ-7g",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Ancient Bonds",
     "tradable": 1,
     "marketable": 1,
     "count": 2,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszOfi9H_8iJlo-Zkvb4DLbUkmJE5Yt307uY89r22QXs_0M_YGHzI4SXdQc4NQuC8gfvxrzt18Lt6cifnCRjpGB8ssSnt9jR",
-    "updated_at": "2025-04-26 21:06:53",
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_DVwM-tMGiE2kB6_YO761fkSBj_ipX18TZS_OaRabZgM7-SAGSZxOBis_RlWyCggSImoTCW1N_4dy_DP1UmW5MlQeBYtUK5xoKzZbixsVeMi4hFxX_-hipI6X5s4LscEf1yWPipyI0",
+    "updated_at": "2025-04-26 21:07:38",
     "prices": {
       "USD": 0.03,
       "RUB": 2.49,
@@ -450,113 +850,213 @@
     }
   },
   {
-    "appid": 730,
-    "market_hash_name": "P90 | Ash Wood (Minimal Wear)",
-    "tradable": 1,
-    "marketable": 1,
+    "appid": 570,
+    "market_hash_name": "Ancient Exile - Arms",
+    "tradable": 0,
+    "marketable": 0,
     "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7OffeDpR09C_k4if2fHwMOLXxTgA6sRw0rvHpNTwilbm_BE5MTyhLYWdIVM5NF3VqQW6xLjxxcjroZM_KLk",
-    "updated_at": "2025-04-26 21:06:53",
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_zBxM2kJ3WW8EI69Yn341zpVSL0hp_s-B1a_f-9J6VjI_mWAHOvxPZ_vORWTju-hlNxtT7RmYquJCnCPAFzXJolQ7NctRSxktPnNL7j7geI2YJMnC39jXxI8G81tF2uFDPg",
+    "updated_at": "2025-04-26 21:07:38",
     "prices": {
-      "USD": 0.33,
-      "RUB": 27.34,
-      "EUR": 0.29,
-      "CNY": 2.38,
-      "TRY": 12.69,
-      "KZT": 169.84
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
     },
     "prices_full": {
-      "USD": 0.33,
-      "RUB": 27.34,
-      "EUR": 0.29,
-      "CNY": 2.38,
-      "TRY": 12.69,
-      "KZT": 169.84
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
     }
   },
   {
-    "appid": 730,
-    "market_hash_name": "P90 | Sand Spray (Field-Tested)",
-    "tradable": 1,
-    "marketable": 1,
+    "appid": 570,
+    "market_hash_name": "Ancient Exile - Back",
+    "tradable": 0,
+    "marketable": 0,
     "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7ODYYzxb08-3moS0mvLwOq7c2D9V6pwk2e2Uodqh0QeyqRI5YTihJ9XBew8-Z1DZr1m8lLy-hZfv7p3XiSw09_T0gtc",
-    "updated_at": "2025-04-26 21:06:53",
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_zBxM2kJ3WW8EI69Yn341zpVSL0hp_s-B1Z7vGlJ6VjI_mWAHOvxPZ_vORWTSiwnlNy5j6AzdevcC3DZw90X5YmQLNZthGxktCzMurm7lPdjYIXzSz_23tN8G81tPsU7eQ9",
+    "updated_at": "2025-04-26 21:07:38",
     "prices": {
-      "USD": 0.03,
-      "RUB": 2.49,
-      "EUR": 0.03,
-      "CNY": 0.22,
-      "TRY": 1.15,
-      "KZT": 15.44
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
     },
     "prices_full": {
-      "USD": 0.03,
-      "RUB": 2.49,
-      "EUR": 0.03,
-      "CNY": 0.22,
-      "TRY": 1.15,
-      "KZT": 15.44
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
     }
   },
   {
-    "appid": 730,
-    "market_hash_name": "Prisma 2 Case",
+    "appid": 570,
+    "market_hash_name": "Ancient Exile - Head",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_zBxM2kJ3WW8EI69Yn341zpVSL0hp_s-B1T6vOqJ6VjI_mWAHOvxPZ_vORWRyyykVN2sjjQm92qdHyWalUmCZFyF-RctkLqlNPgNO_n5AWLiIwRniithy9N8G81tBtzJR7y",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Ancient Exile - Legs",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_zBxM2kJ3WW8EI69Yn341zpVSL0hp_s-B1X6vW9J6VjI_mWAHOvxPZ_vORWQyy0hlN3smTdmNr7I3-Ubg5xDJoiEbENs0Pqldy0M763tVPX2YJGmyyvhygY8G81tK0Iypsx",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Ancient Exile - Ward",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_zBxM2kJ3WW8EI644bm7hbmTx74m5j0widD5v6rV7NsMvTcD2mTyOt4pN5sVyC_kCIwsi-BpYHpIhTDMUJxZcg1ErBf8E7p15CIb7-zu1yA3OQCnG6qkH9O6ylut70LA6tzqazf3Q2SZLA56ZQGIvn1HBXYCh5d7v1qTI62y4cPHhIeDUpAdnc",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Ancient Exile - Weapon",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_zBxM2kJ3WW8EI69Yn341zpVSL0hp_s-B1M6vO-Z6oiIf6QB2Ke1dFzqOhlShakkBw3vDPLwo36dXyeOFInDcQkE-8M40btkobkMePl5wWL3otAzyr6iixA7CZv5PFCD_RD1ZI-_Q",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Ancient Link",
     "tradable": 1,
     "marketable": 1,
     "count": 2,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU1nfbOIj8W7oWzkYLdlPOsMOmIk2kGscAj2erE99Sn2AGw_0M4NW2hIYOLMlhpcmY0CRM",
-    "updated_at": "2025-04-26 21:06:53",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU0qBhYQEnDVNu72MbXHFx6Jg1SuK6mPgt02uDcTipH7cy5ms-KmfT9NrXFlX5d_MxintbW8I3lh1r6rUFkZj31LNTGelQ5M1jS8lfokrjng5G96J2fySQ1snEi7HiPnEHkhgYMMLLMs7vkgg",
+    "updated_at": "2025-04-26 21:07:38",
     "prices": {
-      "USD": 1.28,
-      "RUB": 106.06,
-      "EUR": 1.13,
-      "CNY": 9.23,
-      "TRY": 49.22,
-      "KZT": 658.79
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
     },
     "prices_full": {
-      "USD": 2.56,
-      "RUB": 212.12,
-      "EUR": 2.26,
-      "CNY": 18.46,
-      "TRY": 98.44,
-      "KZT": 1317.58
+      "USD": 0.06,
+      "RUB": 4.98,
+      "EUR": 0.06,
+      "CNY": 0.44,
+      "TRY": 2.3,
+      "KZT": 30.88
     }
   },
   {
-    "appid": 730,
-    "market_hash_name": "Revolution Case",
+    "appid": 570,
+    "market_hash_name": "Ancipitous Strike of the Parasol's Sting",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH-fBxs-vOn2H5F97u5Xx7VjrSBzOkZDf6Spe0PuiZJt6Kf6XMXCVwP55vq57Si6ymRQmjDKDpZvxJBTOMlpPTcsuEYhN50H4zYr5Me3rtVSIj4NGnySv3X4a7yo5tbkCUvUt-_CDiw_DMeE0tMEAdf_2RAPOBkvq-yWFKg",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Angler Tail of the Deep",
     "tradable": 1,
     "marketable": 1,
     "count": 2,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQynaHMJT9B74-ywtjYxfOmMe_Vx28AucQj3brAoYrz3Fay_kY4MG_wdYeLMlhpLMaM-1U",
-    "updated_at": "2025-04-26 21:06:53",
-    "prices": {
-      "USD": 0.53,
-      "RUB": 43.92,
-      "EUR": 0.47,
-      "CNY": 3.82,
-      "TRY": 20.38,
-      "KZT": 272.78
-    },
-    "prices_full": {
-      "USD": 1.06,
-      "RUB": 87.84,
-      "EUR": 0.94,
-      "CNY": 7.64,
-      "TRY": 40.76,
-      "KZT": 545.56
-    }
-  },
-  {
-    "appid": 730,
-    "market_hash_name": "Sealed Graffiti | Tilt (Bazooka Pink)",
-    "tradable": 1,
-    "marketable": 1,
-    "count": 1,
-    "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pO-CI3X5byXdYXjYSwk9RLoLMmnRrzv047vGE2rKFO8lQwgGKKIN9mRMO8yNaxA70dMVu2u_0UdyEhk6f9BKZAarxm1OM7xzkCNAUXUFGtI",
-    "updated_at": "2025-04-26 21:06:53",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhoAlYQgPEVeGsxNrBVlJyMQxSsr-gOzhs1vTbPilQ6d2lgZKOmPHgO77Vk25B18l0jfqP8dmk0QK38kNpMG_wIoDEe1A2YwqE8gPtxOvm1p60tJzIyyY36Cgmt2GdwUJOoTmHsQ",
+    "updated_at": "2025-04-26 21:07:38",
     "prices": {
       "USD": 0.03,
       "RUB": 2.49,
@@ -566,97 +1066,22 @@
       "KZT": 15.44
     },
     "prices_full": {
-      "USD": 0.03,
-      "RUB": 2.49,
-      "EUR": 0.03,
-      "CNY": 0.22,
-      "TRY": 1.15,
-      "KZT": 15.44
+      "USD": 0.06,
+      "RUB": 4.98,
+      "EUR": 0.06,
+      "CNY": 0.44,
+      "TRY": 2.3,
+      "KZT": 30.88
     }
   },
   {
-    "appid": 730,
-    "market_hash_name": "SG 553 | Waves Perforated (Field-Tested)",
-    "tradable": 1,
-    "marketable": 1,
+    "appid": 570,
+    "market_hash_name": "Announcer: Defense Grid",
+    "tradable": 0,
+    "marketable": 0,
     "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3ZTxS6eOym5SYqOD1Jb7CqWZU7Mxkh6eUotrzigDn_UBqMGD6co7EdlI9NVGFrAS8lLzu15Tt6ZWdnXo16SB3-z-DyCJKn8kv",
-    "updated_at": "2025-04-26 21:06:53",
-    "prices": {
-      "USD": 0.03,
-      "RUB": 2.49,
-      "EUR": 0.03,
-      "CNY": 0.22,
-      "TRY": 1.15,
-      "KZT": 15.44
-    },
-    "prices_full": {
-      "USD": 0.03,
-      "RUB": 2.49,
-      "EUR": 0.03,
-      "CNY": 0.22,
-      "TRY": 1.15,
-      "KZT": 15.44
-    }
-  },
-  {
-    "appid": 730,
-    "market_hash_name": "Snakebite Case",
-    "tradable": 1,
-    "marketable": 1,
-    "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU4naLOJzgUuYqyzIaIxa6jMOLXxGkHvcMjibmU99Sg3Qaw-hA_ZWrzLISLMlhpgJJUhGE",
-    "updated_at": "2025-04-26 21:06:53",
-    "prices": {
-      "USD": 0.38,
-      "RUB": 31.49,
-      "EUR": 0.34,
-      "CNY": 2.74,
-      "TRY": 14.61,
-      "KZT": 195.58
-    },
-    "prices_full": {
-      "USD": 0.38,
-      "RUB": 31.49,
-      "EUR": 0.34,
-      "CNY": 2.74,
-      "TRY": 14.61,
-      "KZT": 195.58
-    }
-  },
-  {
-    "appid": 730,
-    "market_hash_name": "SSG 08 | Blue Spruce (Field-Tested)",
-    "tradable": 1,
-    "marketable": 1,
-    "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3fDJR_-O7kYSCgvq6a7_TxTME7Z0j3-2XpNWi3gSw_kVoZT-lI4eWe1NvZ1mFqFbqxejo0Yj84spJOB2PcQ",
-    "updated_at": "2025-04-26 21:06:53",
-    "prices": {
-      "USD": 0.03,
-      "RUB": 2.49,
-      "EUR": 0.03,
-      "CNY": 0.22,
-      "TRY": 1.15,
-      "KZT": 15.44
-    },
-    "prices_full": {
-      "USD": 0.03,
-      "RUB": 2.49,
-      "EUR": 0.03,
-      "CNY": 0.22,
-      "TRY": 1.15,
-      "KZT": 15.44
-    }
-  },
-  {
-    "appid": 730,
-    "market_hash_name": "SSG 08 | Dezastre (Well-Worn)",
-    "tradable": 1,
-    "marketable": 1,
-    "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwODPIWV96NmslZOfhfLLPr7Vn35cpp0pj7-Vot2niVW2-BY9a236IYSRdwU9aVvV-FO_wOjvhpW9vJnMnHF9-n51SyNPrp4",
-    "updated_at": "2025-04-26 21:06:53",
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIS41USlXvXR0YWgO3WY8Fh28ZXL7l71SBm_z8HmrHtftqOra_I1eaeXWmOWwr9wtbJtSnq2wkVw6zjTz9yqIymeOxhgVMVOqx5GhA",
+    "updated_at": "2025-04-26 21:07:38",
     "prices": {
       "USD": 0.1,
       "RUB": 8.29,
@@ -675,13 +1100,363 @@
     }
   },
   {
-    "appid": 730,
-    "market_hash_name": "Tec-9 | Groundwater (Field-Tested)",
+    "appid": 570,
+    "market_hash_name": "Announcer: Monkey King",
     "tradable": 1,
     "marketable": 1,
     "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3MzHfTRU6eO7kYSCgvq6ZrjXkDoCv8Mm3-2QoYmsiwey8xBlZmjwdo6UcQU5Z1CFrFS-lbjvg4j84sq_-BQ7Wg",
-    "updated_at": "2025-04-26 21:06:53",
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIS41USlXvXR0YWgO3WY8Fh28ZXL51bpShjooZ3p8yUV7qf5PPM5eabDDGaUl74is7E8H3rgzRx1t27Xmdf4dC-eOARxXpNxQvlK7EeCIuGuaw",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 1.35,
+      "RUB": 111.87,
+      "EUR": 1.19,
+      "CNY": 9.74,
+      "TRY": 51.91,
+      "KZT": 694.81
+    },
+    "prices_full": {
+      "USD": 1.35,
+      "RUB": 111.87,
+      "EUR": 1.19,
+      "CNY": 9.74,
+      "TRY": 51.91,
+      "KZT": 694.81
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Announcer: Voice of The International",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIS41USlXvXR0YWgO3WY8Fh28ZXL_lC2EVOkzM_hrCALuqv5O6JuI_HLXT7Gl7t04-BtHXy3lxx242-Dn4qreHOQcEZ-XZ-yNF6Q",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Anunkasan",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_TRwtm1OHqE8VNnu4_1_VKoRxLlianl_CVX6r2oZ7B6H_WSCWuV_uBms95tQD2yqg4kvCiRpYf4NiCJOAIkDJJ0ReQNsRG8lIXgN-rrsgKP3o0Xnnit3yka6Chttr1WWaQn_bqX0V-FLeUvfg",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.16,
+      "RUB": 13.26,
+      "EUR": 0.14,
+      "CNY": 1.15,
+      "TRY": 6.15,
+      "KZT": 82.35
+    },
+    "prices_full": {
+      "USD": 0.16,
+      "RUB": 13.26,
+      "EUR": 0.14,
+      "CNY": 1.15,
+      "TRY": 6.15,
+      "KZT": 82.35
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Apex Automated - Armor",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH-TV196tMG-F5EY695X76VLwTg_6oZfy8C1JoPG8Z6dmN_-BBViR0-N5oq8xHXzgzEkjtmmAnIr6IC2fbgciWZNyQuJYtRnsk4LjZuyw4gzYiIkU02yg2XClcGAA",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Apex Automated - Head",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH-TV196tMG-F5EY695X76VLwTg_6oZ7l_CYU7OCha696L-KYMW-VwOo4s7I6SirhxEp1sjjQzNn8d32SbFMgC8MkF7RY4RG_wILjYr62sgKL3ZUFk3vYIZszCw",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Apex Automated - Power Cog",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH-TV196tMG-F5EY695X76VLwTg_6oZXv-m1Y_f2tY7NiMvusDWiX_uBms95tQD2yqg8mpymJn5vrIDv4PVl3FJFyEOII5hK9moDmN-uw5AHcjosRnH_92igbvC5u6rtWV6t2-fLejwrfcepqzsV7xwU",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Apex Automated - Rocket",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH-TV196tMG-F5EY695X76VLwTg_6oZvp7iEU7OCha696L-KYMWqZ0u04trg9H3vnlkx35TvUy9egJXyeZlAjDpIlE-Zcsxjqld22Przh5VDb2pUFk3tymMilaQ",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Apex Automated - Weapon",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH-TV196tMG-F5EY695X76VLwTg_6oYHl_DJU4b2teqtuK-ecHGyv1ut3oO5nASjmwE91tWrSz477InifaAMgWMZ4QbZZuhS5moLuMbzh7lbej4oWyn3gznQe8kmEEwg",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Apocalypse Unbound - Arms",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_fawMOkO2-o5EZl9ZX9_lDoT1L0hoLy-C9e4-uRa6thJM-ABmaTyuJzo95oXSSg2hg_py-Al4r1OBTEMVp0ZdEoFLRR7kX7_YWlaqn8tQ2Ig4MTzH2qhilA7X4_sOsLVfUl-feGjwiUMbdv4JAEcq6iGxSOWgJP5v7pPdOfTQ",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Apocalypse Unbound - Head",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_fawMOkO2-o5EZl9ZX9_lDoT1L0hoLy-C9e4-uRa6thJM-ABmaTyuJzo95hSii32hg_py-Al4r1OBTEMVp0ZdEoFLRR7kX7_YyyZr784FCL2Y1DyX392ylI7Shq6ucEA_Yh_vXUiQvDNrQ96JgHcKmiHh_cWgJP5v5FMIM1uw",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Apocalypse Unbound - Shoulder",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_fawMOkO2-o5EZl9ZX9_lDoT1L0hoLy-C9e4-uRa6thJM-ABmaTyuJzo956RyammRkioXKAgpvrJCbCMk9PWc0sEYhJ6kHryYiydIWhv1qb198QjzL_hysb73potu8AA6AnqaPfh13HMrVv4pUCcf72GRSLWE4I6_9hEI-10M5PCbv87X8F",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Apocalypse Unbound - Tail",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_fawMOkO2-o5EZl9ZX9_lDoT1L0hoLy-C9e4-uRa6thJM-ABmaTyuJzo959TiC_2hg_py-Al4r1OBTEMVp0ZdEoFLRR7kX7_ZC2brb85A3cg45Emyr_iCNK6Cts4OoDVfFx-PbSjQzANrZussNQIqyhTkvcCgJP5v7njPRcbA",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Apparatus of Tellurian Trespass",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhpRpPRwPTRvKoxcHsUE91Mgho5Or3ezhz3_LaegJA7d-924OKgfLmPYTShGpG5Poj2ruRyp_5iUa_lBE9MDLtJYGRI1M6N17Y_FLrl7jp0ZS1tZ6cz3YyvSQi4XvcmkGwh0lKaeVt1uveFws1AoMLnw",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Arcane Sight",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 2,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH__a1cWqMGnY5ER29Ynx1UruRhXl0Zfy_iNV6s29YaNlNL7FCzTBmbwis-c7HC-2lE5242-GwomocnqXOFUlC8R0QOEPsBHuxNXiKaq8sOYainNT",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    },
+    "prices_full": {
+      "USD": 0.06,
+      "RUB": 4.98,
+      "EUR": 0.06,
+      "CNY": 0.44,
+      "TRY": 2.3,
+      "KZT": 30.88
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Arctic Hunter's Glove",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH-LB0MGgJ2nY6lh87obk4lLYQBXkkILl7x1a_f-9fvYiL_6aFGaAyeVJsel8QT22hyImoTCWjN23cSqQbwdxC8d0QuBesBO6ltTnZrnh5gLfit9GyX2sjiJI6ydotr1QB71lpPPVWHTbGw",
+    "updated_at": "2025-04-26 21:07:38",
     "prices": {
       "USD": 0.03,
       "RUB": 2.49,
@@ -700,78 +1475,632 @@
     }
   },
   {
-    "appid": 730,
-    "market_hash_name": "UMP-45 | Motorized (Field-Tested)",
-    "tradable": 1,
-    "marketable": 1,
+    "appid": 570,
+    "market_hash_name": "Ardalan Arsonist - Armor",
+    "tradable": 0,
+    "marketable": 0,
     "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jfxv7YJWh97c-lkY2Jm_LwDL7fkWJf7fp8j-3I4IG7iwTg_0U_NTz1LdPBdFI7YgzW_gTtlOjp0Zfq7pnBwXFrviJ35nvczQv3309OeyUVDA",
-    "updated_at": "2025-04-26 21:06:53",
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_LV0cGeInKb6Vliu4P1-FLYVhT9kpn3widP5_e8V6V_Lf-BQWOR0-VJp-hlQyakqhgzuziXpY7rLCTVcAEjWcR2TLMItRa_moLiP-ri4Ffaj4JGnn__2HsdvStisr5TWPdw_qfJz1aWDWAkaoA",
+    "updated_at": "2025-04-26 21:07:38",
     "prices": {
-      "USD": 0.1,
-      "RUB": 8.29,
-      "EUR": 0.09,
-      "CNY": 0.72,
-      "TRY": 3.85,
-      "KZT": 51.47
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
     },
     "prices_full": {
-      "USD": 0.1,
-      "RUB": 8.29,
-      "EUR": 0.09,
-      "CNY": 0.72,
-      "TRY": 3.85,
-      "KZT": 51.47
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
     }
   },
   {
-    "appid": 730,
-    "market_hash_name": "USP-S | Night Ops (Field-Tested)",
-    "tradable": 1,
-    "marketable": 1,
+    "appid": 570,
+    "market_hash_name": "Ardalan Arsonist - Back",
+    "tradable": 0,
+    "marketable": 0,
     "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09Svq5aKhf73MrbeqWVY781lteTE8YXghRrt-RU4YGClI4_BdwY2aQ6Brle8xbrm08K7uMjPnXdmuyl34SvczR3kn1gSORZFw-WW",
-    "updated_at": "2025-04-26 21:06:53",
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_LV0cGeInKb6Vliu4P1-FLYVhT9kpn3widP5_e8V6ZsI_vcCmaCytFhue1lQD6MkAkvti-6mI76KmWTb1NyDZMiE-QIu0bpk4CzY--0swbajIxHzXqsi35K7S05teYKA6B05OSJ2MuJSaNi",
+    "updated_at": "2025-04-26 21:07:38",
     "prices": {
-      "USD": 0.42,
-      "RUB": 34.8,
-      "EUR": 0.37,
-      "CNY": 3.03,
-      "TRY": 16.15,
-      "KZT": 216.16
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
     },
     "prices_full": {
-      "USD": 0.42,
-      "RUB": 34.8,
-      "EUR": 0.37,
-      "CNY": 3.03,
-      "TRY": 16.15,
-      "KZT": 216.16
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
     }
   },
   {
-    "appid": 730,
-    "market_hash_name": "Zeus x27 | Olympus (Field-Tested)",
+    "appid": 570,
+    "market_hash_name": "Ardalan Arsonist - Belt",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_LV0cGeInKb6Vliu4P1-FLYVhT9kpn3widP5_e8V6ZoLOTcCmaCytFhue1lQD6MkAkvti-6mIr1NWXDagd0WJZ1ReNYshfrlNS0P-6zsQXXj45AnCr733lLvCdu6rsKAvZx5OSJ2Gdfyfir",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Ardalan Arsonist - Head",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_LV0cGeInKb6Vliu4P1-FLYVhT9kpn3widP5_e8V6xoIfTcCmaCytFhue1lQD6MkAkvti-6kor4JWWeZwAjDZFyFrMPtkW4k4fnNO2xtgWM3ooTyCX22C5I5ips5ucLUPYg5OSJ2HPKHizV",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Ardalan Arsonist - Offhand Weapon",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_LV0cGeInKb6Vliu4P1-FLYVhT9kpn3widP5_e8V6trJviSAGOv1ut3oO5nAC2yhxYYpDSJloDuHi7TNlNiZc0mE79b7ETX1YG2d7W8-VHcjIlEyC77iSgY63xs4OoGBKBwrq3T3QjJM-VpspIGIff2RUjYDhUR-Pc1Qxnym10",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Argent Decimator Arms",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_zBxM2kJ3WW8EI68Jf4_0rYQxzliprl8CNI-_e8V7doNM-SHGqDjupmvPR6cCuygQkrtjCEiZv8MxTUO0JPW9AtBvkO4EHskofhMr_q4VSI2YtBz3is2nxI6yk56-4EA6clqK3UjQDAMLE6_9BdcwZO26xd",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Argent Decimator Back",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_zBxM2kJ3WW8EI68Jf4_0rYQxzliprl8CNI-_e8V7doNM-RD2SbjupmvPR6cCuygQkrtjCEiZv8MxTUO0JPWMMjHvkN4Bm8kNXiZejl5VGNjYgUzn39hixB6npu5boAVvV2q_Xf2wiTZ7Vv_9Bdc4BCWjNj",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Argent Decimator Head",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_zBxM2kJ3WW8EI68Jf4_0rYQxzliprl8CNI-_e8V7doNM-bC2aUjupmvPR6cCuygQkrtjCEiZv8MxTUO0JPUschEflfsxLrwdTuNe7i7lbciIIQyH-qjnkbvyhjsOwAVaInqPbVj1zHNbBr_9Bdcy40e0by",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Argent Decimator Legs",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_zBxM2kJ3WW8EI68Jf4_0rYQxzliprl8CNI-_e8V7doNM-fC2CDjupmvPR6cCuygQkrtjCEiZv8MxTUO0JPVscnBvlf5xnrx4XnP-uxsQDdj95GxC7-jntB5nlr67oHUKZ3_aOFhg2UMeE-_9Bdc8xSnV-F",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Argent Decimator Loading Screen",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIm52k-5XvHr0MmzMH6Z9hlx5Ivh-WblQAnlkpPt_DFP6uCRe6F5H_yAQGWUl7cn5rM4HSu3xkgh42-AmNn6cimfOwcmCZIiEOMC5kO5wNGxZej8p1uJMtMuE84",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Argent Decimator Weapon",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_zBxM2kJ3WW8EI68Jf4_0rYQxzliprl8CNI-_e8V7doNM-EC2aAzuA5tPFlWjqMlxwzpzGAl47qNS7VAUV1Tv03ELZK7U6mx9exYerl7wPXj94Wmyv92n9Kvyk64LoKWaYm_6zVjwnIZOFvs5dQJeHnE0rMH4DhSQ",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Arm Fins of the Deepweed Drowner",
     "tradable": 1,
     "marketable": 1,
     "count": 1,
-    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpooru2LhVfyfbdYgJW5Mm4kIWZqPD7N4Tck29Y_cg_ib2Y8dWg0FHh_Bc6Yjqgd4CdcFA9aQ7U-FG2xL3m157qup7Amnsyuz5iuyhTEpjqoQ",
-    "updated_at": "2025-04-26 21:06:53",
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH-Ldx8-pIHWD4EQ6-oLk_kzpSBz_oYXl7zRa4eaRabZgM7-dC3eE1OB_se9WXCyhgxwppwKEiILqb3-Sb1ImXJR5E7IP4RG-xNLiNeu27gDejYxFxSn5jy9Luns46uYKWKY7uvqA76X-Wjg",
+    "updated_at": "2025-04-26 21:07:38",
     "prices": {
-      "USD": 8.55,
-      "RUB": 708.48,
-      "EUR": 7.54,
-      "CNY": 61.66,
-      "TRY": 328.76,
-      "KZT": 4400.49
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
     },
     "prices_full": {
-      "USD": 8.55,
-      "RUB": 708.48,
-      "EUR": 7.54,
-      "CNY": 61.66,
-      "TRY": 328.76,
-      "KZT": 4400.49
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
     }
-  }
-]
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Arm Guards of Prosperity",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_PZwc-zCmiH7ER84Mj1-FTYRgjwjJLzwi1d0OK8Z7d9JeKaGn7fwPx7j-Z8Tju3hiIotQKViIDqMS7VN0JpFMR5EeUDuxLuwYe0ZLu0tQTX2NgQn3-qh35L6Hto5uxUWKVw-vaEig7fcepqHUqvLeY",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Armlet of Renewed Faith",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU9pBVUR0LZQOy5mM3BUl5xNztRt7OxI0hiwfLLdC996t2_gIjFlfOiNuyGlDJVvMEpju-Yptin3wTn-Bc6Mj2ictLBcgVoYAqC_lW_k_Cv28GmsF401g",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.08,
+      "RUB": 6.63,
+      "EUR": 0.07,
+      "CNY": 0.58,
+      "TRY": 3.08,
+      "KZT": 41.17
+    },
+    "prices_full": {
+      "USD": 0.08,
+      "RUB": 6.63,
+      "EUR": 0.07,
+      "CNY": 0.58,
+      "TRY": 3.08,
+      "KZT": 41.17
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Armlets of the Eldwurm Crest",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_LGws2uO0Sc619y_JO77kvmRhL_oZrv7yZk7uCje-tpMvGUAWmvzeFktN5oXSSg2xx-sD_Ww9eqJH3Fbg5xCZB5FOcPsUPul9TgZbzmtFSI3YpExCn83yJXrnE8eVeMjcE",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.05,
+      "RUB": 4.14,
+      "EUR": 0.04,
+      "CNY": 0.36,
+      "TRY": 1.92,
+      "KZT": 25.73
+    },
+    "prices_full": {
+      "USD": 0.05,
+      "RUB": 4.14,
+      "EUR": 0.04,
+      "CNY": 0.36,
+      "TRY": 1.92,
+      "KZT": 25.73
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Armored Exoskeleton Wings",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH-HRwtykJzSE8Vd5_4Lm-WbiWRLilZPs-DZU4c2mbaVpH_ycGSiD1e96u-R7XBa2jRI0uDiJn5v2LxTPO1d0Zc4vAvlZthWwx4HnN7nnswPejNpMxH__inkb5ydi67sBUvB2qaDU2Q7BObQ5_9Bdc8GlL56Y",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Armor of Eternal Fire",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_LbzMfuMG-S91h0-Ljy40vifg75kYPs-SdJ_L2rfKF_LvGfMWGZ0-tJo-lmWiW3kA80_W3Rz9r8Iy6QbQEkDMEkQeMNthi4kdzgMe3htVfXiIMWyS-tiC9P6Sl1o7FVKhRwmD4",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.28,
+      "RUB": 23.2,
+      "EUR": 0.25,
+      "CNY": 2.02,
+      "TRY": 10.77,
+      "KZT": 144.11
+    },
+    "prices_full": {
+      "USD": 0.28,
+      "RUB": 23.2,
+      "EUR": 0.25,
+      "CNY": 2.02,
+      "TRY": 10.77,
+      "KZT": 144.11
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Armor of the Arch Temptress",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH-fBxs-vOn2H5F97u4P7_lj3SAnOjcXf_CBC_OGvZJt5Jf2DGnWV0v1Jo-lmWiW3kA9otzKRm5_wNRTUbWlxWNszBrZW3VTtz5Sjdb-hpGqd09QAkXirzDRNvyhs4-kDB_AgrKPe2Q3CMLM445kLcfuvRByLDBsHsPgxEI3rzodDQAwXUMti7rFm",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.13,
+      "RUB": 10.77,
+      "EUR": 0.11,
+      "CNY": 0.94,
+      "TRY": 5.0,
+      "KZT": 66.91
+    },
+    "prices_full": {
+      "USD": 0.13,
+      "RUB": 10.77,
+      "EUR": 0.11,
+      "CNY": 0.94,
+      "TRY": 5.0,
+      "KZT": 66.91
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Armor of the Chainbreaker",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_rdxc-yIX6W6VNnu4r17mbpQBTpoZnmwjZT6s2ofbZ0H_SGAGCVzuBJsuBqRGa-lBkYvTyMgrD2JxTTNlNPXNcyDIhe907vx4u5WLiztF7A2YJNyir_iXlLui5jtewAV6si_abWjF6UN-But8RRIKqnTxqLXUoH6bciGt4DCQBn8A",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Armor of the Deep",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH-Xd0c-vem-F4Fdm4ZXx5V_zSRj1m5PwwiNJ4v28J7B_JfGAG3WVzuhiuORtSiyjqhw1vjKX1Nutdnueag4iCMRwF7YD4EOxlYGzNb_htACLgosQzy_4hi9A7Cs_tbwcEf1yPUSFx0g",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Armor of the Drake",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_LGws2uO0Sc619y_JO760vqTg_OkZDf6Spe0Pa8aa9ob_GBA2iC_uFwj_VhSha3hxwstnODzNarIHPCbVNxXpQiQuBc4RLpkNDkMejg4VGP2N1NnCv83CtJ7ihi_a9cBo705aPq",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Armor of the Drake",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_LGws2uO0Sc619y_JO760vqTg_OkZDf6Spe0Pa8aa9ob_GBA2iC_uFwj_VhSha3hxwstnODzNarIHPCbVNxXpQiQuBc4RLpkNDkMejg4VGP2N1NnCv83CtJ7ihi_a9cBo705aPq",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Armor of the Dying Light",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_LV1MSjJ36W7lNnu4P1_VflUxjwlZPywiFa4_O4bbZsb_SSGWmS0-t3u-R7cCqymRwxti-EpY7rLCTVcAMpCZJxEeUOsBC9xtbnNOLk5QLag9pGnHit2CodvyY46-wGVKNx-KXJz1aWpwRPXNk",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Armor of the Hunter",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUwpg5TWFXvT_Gjw8rBHFVhKxBSpLSqJQZt1szJYzBN_pO-gY6fkuX6PLXQm25u6dd8hfuP9Nyi3Afh_RA4NTqictCWdVJoaVzQqFXvlL28gZ--vs7PnSFgvCEm7WGdwUJh4sVZMw",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    },
+    "prices_full": {
+      "USD": 0.03,
+      "RUB": 2.49,
+      "EUR": 0.03,
+      "CNY": 0.22,
+      "TRY": 1.15,
+      "KZT": 15.44
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Armor of the Masks of Mischief",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_vbzcGkLESc7Fhyu4P7_ljYURHkjant8ixQ6uuRY61jJ8-SHGqf06Fyv_VocDm_gA4YvjKLkYrgHiDOMFFPW9AtGqUUsBGxxtHlNOLr7wSN2NpGynj823tOunw55-wHBPIsr6KC2g7DZOI56I5DeqhAIGn1CQ",
+    "updated_at": "2025-04-26 21:07:38",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 570,
+    "market_hash_name": "Armor of the Sundered King",
+    "tradable": 0,
+    
