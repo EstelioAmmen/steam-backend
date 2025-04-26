@@ -3,8 +3,8 @@ from starlette.middleware.sessions import SessionMiddleware
 from fastapi.middleware.cors import CORSMiddleware
 
 # ── приложные роутеры ────────────────────────────────
-from auth             import router as auth_router
-from inventory        import router as inventory_router
+from auth import router as auth_router
+from inventory import router as inventory_router
 from routers import steamid_resolver
 from routers import inventory_json
 
@@ -19,13 +19,14 @@ SESSION_SECRET = config["app"]["session_secret"]
 
 app = FastAPI()
 
-# ── CORS (только ваш домен) ──────────────────────────
+# ── CORS (боевой домен + локальная разработка) ────────
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "https://buff-163.ru",
         "https://www.buff-163.ru",
-        "http://127.0.0.1:5173"
+        "http://localhost:5173",
+        "http://127.0.0.1:5173",
     ],
     allow_credentials=True,
     allow_methods=["*"],
