@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "appid": 730,
+    "market_hash_name": "Global Offensive Badge",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuk2fDQQFp7a1FU4-rxLVc1h_LOcGQQvovux9fbwKKsMumAxz0CvMYk2b2To9Tz3gD6ux07ellOukQ",
+    "updated_at": "2025-04-26 20:45:26",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Graffiti | Tombstone (Brick Red)",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0qeeMGGfjZznBEDPQDBAxRbZcZ2CM_GLwtu6WQz7NR7wtQFwDe_MA-mMcbp-JNhs9go4J_jPu2VRzGVArfclJYgKuxmAaIbE8lXlFcZ9WnZvFhCpT",
+    "updated_at": "2025-04-26 20:45:26",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "M4A1-S | Black Lotus (Battle-Scarred)",
+    "tradable": 1,
+    "marketable": 1,
+    "count": 7,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO7wIHahMj2P7rSnVRd59FkmdbJ8I3jkRq2rkc4MW3ycYORIAJtMF_Q-ATqyb3ph8XvuJrAz3Jg6XF27Xjclhe0n1gSOUHUqutH",
+    "updated_at": "2025-04-26 20:45:26",
+    "prices": {
+      "USD": 11.2,
+      "RUB": 928.07,
+      "EUR": 9.88,
+      "CNY": 80.77,
+      "TRY": 430.66,
+      "KZT": 5764.38
+    },
+    "prices_full": {
+      "USD": 78.4,
+      "RUB": 6496.49,
+      "EUR": 69.16,
+      "CNY": 565.39,
+      "TRY": 3014.62,
+      "KZT": 40350.66
+    }
+  },
+  {
+    "appid": 730,
+    "market_hash_name": "Music Kit | Valve, CS:GO",
+    "tradable": 0,
+    "marketable": 0,
+    "count": 1,
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1rRS_Ko6J-CHVwmdwZV4b_xegJkivWaKTsbv921wtaNz6fyZO-Gxz0EvpUj2b-SpNS7mFqzxFR2Pic",
+    "updated_at": "2025-04-26 20:45:26",
+    "prices": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    },
+    "prices_full": {
+      "USD": 0.0,
+      "RUB": 0.0,
+      "EUR": 0.0,
+      "CNY": 0.0,
+      "TRY": 0.0,
+      "KZT": 0.0
+    }
+  }
+]
